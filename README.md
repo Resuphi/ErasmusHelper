@@ -218,13 +218,13 @@ Proje 4 haftalık sprint süreciyle geliştirilmektedir.
       <sub>UI/UX Designer</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/username4">
+      <a href="https://github.com/Resuphi">
         <img src="https://avatars.githubusercontent.com/u/121454626?v=4" width="100px;" alt=""/>
         <br />
-        <sub><b>İsim Soyisim</b></sub>
+        <sub><b>Emir Suphi Boztoğan</b></sub>
       </a>
       <br />
-      <sub>Project Manager</sub>
+      <sub>Scrum Master</sub>
     </td>
   </tr>
 </table>
