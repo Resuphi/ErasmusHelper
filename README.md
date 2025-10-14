@@ -191,22 +191,22 @@ Proje 4 haftalık sprint süreciyle geliştirilmektedir.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/username1">
-        <img src="https://github.com/username1.png" width="100px;" alt=""/>
+      <a href="https://github.com/Myusufbasci">
+        <img src="https://avatars.githubusercontent.com/u/143991090?v=4" width="100px;" alt=""/>
         <br />
-        <sub><b>İsim Soyisim</b></sub>
+        <sub><b>Muhammet Yusuf Başçı</b></sub>
       </a>
       <br />
-      <sub>Frontend Developer</sub>
+      <sub>FullStack Developer</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/username2">
-        <img src="https://github.com/username2.png" width="100px;" alt=""/>
+      <a href="https://github.com/HuseyinKorkutan">
+        <img src="https://avatars.githubusercontent.com/u/120307972?v=4" width="100px;" alt=""/>
         <br />
-        <sub><b>İsim Soyisim</b></sub>
+        <sub><b>Hüseyin Korkutan</b></sub>
       </a>
       <br />
-      <sub>Backend Developer</sub>
+      <sub>FullStack Developer</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Rosnarh">
