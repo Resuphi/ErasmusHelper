@@ -219,7 +219,7 @@ Proje 4 haftalık sprint süreciyle geliştirilmektedir.
     </td>
     <td align="center">
       <a href="https://github.com/username4">
-        <img src="https://github.com/username4.png" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/121454626?v=4" width="100px;" alt=""/>
         <br />
         <sub><b>İsim Soyisim</b></sub>
       </a>
