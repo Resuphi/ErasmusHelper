@@ -31,13 +31,13 @@ Modern ve kullanıcı dostu hava durumu uygulaması. MeteoTech, gerçek zamanlı
 ## 🛠️ Teknolojiler
 
 ### Frontend
-- 
+-React
 
 ### Backend
-- 
+- C#
 
-### Diğer
-- 
+### Veri Tabanı
+- PostgreSQL ve Redis
 
 ## 📦 Kurulum
 
