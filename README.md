@@ -209,13 +209,13 @@ Proje 4 haftalık sprint süreciyle geliştirilmektedir.
       <sub>Backend Developer</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/username3">
-        <img src="https://github.com/username3.png" width="100px;" alt=""/>
+      <a href="https://github.com/Rosnarh">
+        <img src="https://avatars.githubusercontent.com/u/156602085?v=4" width="100px;" alt=""/>
         <br />
-        <sub><b>İsim Soyisim</b></sub>
+        <sub><b>Ömer Gülnaroğlu</b></sub>
       </a>
       <br />
-      <sub>UI/UX Designer</sub>
+      <sub>Data Analyst</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Resuphi">
@@ -231,7 +231,7 @@ Proje 4 haftalık sprint süreciyle geliştirilmektedir.
 
 ## 📄 Lisans
 
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+Bu proje __________ altında lisanslanmıştır.
 
 ## 📞 İletişim
 
