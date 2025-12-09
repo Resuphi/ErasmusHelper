@@ -1,0 +1,5079 @@
+{
+  "universities": [
+    {
+      "id": "omu",
+      "name": "Ondokuz Mayıs University",
+      "city": "Samsun",
+      "lat": 41.2903,
+      "lng": 36.3336,
+      "departments": [
+        {
+          "name": "General",
+          "partners": [
+            {
+              "name": "Université de Liège",
+              "country": "Belgium",
+              "lat": 50.6397,
+              "lng": 5.5706,
+              "department": "General"
+            },
+            {
+              "name": "University of Zadar",
+              "country": "Croatia",
+              "lat": 44.117,
+              "lng": 15.2355,
+              "department": "General"
+            },
+            {
+              "name": "University of South Bohemia in Ceske Budejovice",
+              "country": "Czechia",
+              "lat": 48.9747,
+              "lng": 14.4747,
+              "department": "General"
+            },
+            {
+              "name": "Palacký University Olomouc",
+              "country": "Czechia",
+              "lat": 49.5939,
+              "lng": 17.2508,
+              "department": "General"
+            },
+            {
+              "name": "University of Southern Denmark",
+              "country": "Denmark",
+              "lat": 55.4004,
+              "lng": 10.3833,
+              "department": "General"
+            },
+            {
+              "name": "Université de Bordeaux",
+              "country": "France",
+              "lat": 44.84,
+              "lng": -0.58,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Kassel",
+              "country": "Germany",
+              "lat": 51.3158,
+              "lng": 9.4979,
+              "department": "General"
+            },
+            {
+              "name": "Freie Universität Berlin",
+              "country": "Germany",
+              "lat": 52.52,
+              "lng": 13.405,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Münster",
+              "country": "Germany",
+              "lat": 51.9625,
+              "lng": 7.6256,
+              "department": "General"
+            },
+            {
+              "name": "Hochschule Düsseldorf",
+              "country": "Germany",
+              "lat": 51.2256,
+              "lng": 6.7767,
+              "department": "University of Applied Sciences"
+            },
+            {
+              "name": "University of Patras",
+              "country": "Greece",
+              "lat": 38.25,
+              "lng": 21.7333,
+              "department": "General"
+            },
+            {
+              "name": "University of Debrecen",
+              "country": "Hungary",
+              "lat": 47.53,
+              "lng": 21.6392,
+              "department": "General"
+            },
+            {
+              "name": "Università degli Studi di Torino",
+              "country": "Italy",
+              "lat": 45.0792,
+              "lng": 7.6761,
+              "department": "General"
+            },
+            {
+              "name": "Università degli Studi di Milano",
+              "country": "Italy",
+              "lat": 45.4669,
+              "lng": 9.19,
+              "department": "General"
+            },
+            {
+              "name": "Università degli Studi di Foggia",
+              "country": "Italy",
+              "lat": 41.4584,
+              "lng": 15.5519,
+              "department": "General"
+            },
+            {
+              "name": "Riga Technical University",
+              "country": "Latvia",
+              "lat": 56.9475,
+              "lng": 24.1069,
+              "department": "General"
+            },
+            {
+              "name": "Bialystok University of Technology",
+              "country": "Poland",
+              "lat": 53.1353,
+              "lng": 23.1456,
+              "department": "General"
+            },
+            {
+              "name": "University of Gdansk",
+              "country": "Poland",
+              "lat": 54.3475,
+              "lng": 18.6453,
+              "department": "General"
+            },
+            {
+              "name": "Universidade do Porto",
+              "country": "Portugal",
+              "lat": 41.1495,
+              "lng": -8.6108,
+              "department": "General"
+            },
+            {
+              "name": "Universidade de Coimbra",
+              "country": "Portugal",
+              "lat": 40.2111,
+              "lng": -8.4289,
+              "department": "General"
+            },
+            {
+              "name": "Ovidius University of Constanta",
+              "country": "Romania",
+              "lat": 44.1667,
+              "lng": 28.6333,
+              "department": "General"
+            },
+            {
+              "name": "Alexandru Ioan Cuza University of Iaşi",
+              "country": "Romania",
+              "lat": 47.1622,
+              "lng": 27.5889,
+              "department": "General"
+            },
+            {
+              "name": "University of Oradea",
+              "country": "Romania",
+              "lat": 47.0722,
+              "lng": 21.9211,
+              "department": "General"
+            },
+            {
+              "name": "Technical University of Kosice",
+              "country": "Slovakia",
+              "lat": 48.7167,
+              "lng": 21.25,
+              "department": "General"
+            },
+            {
+              "name": "Slovak University of Technology in Bratislava",
+              "country": "Slovakia",
+              "lat": 48.1447,
+              "lng": 17.1128,
+              "department": "General"
+            },
+            {
+              "name": "Universidad de León",
+              "country": "Spain",
+              "lat": 42.6056,
+              "lng": -5.57,
+              "department": "General"
+            },
+            {
+              "name": "Universitat de Barcelona",
+              "country": "Spain",
+              "lat": 41.3833,
+              "lng": 2.1833,
+              "department": "General"
+            },
+            {
+              "name": "Universidad de Sevilla",
+              "country": "Spain",
+              "lat": 37.39,
+              "lng": -5.99,
+              "department": "General"
+            },
+            {
+              "name": "Universidad Complutense de Madrid",
+              "country": "Spain",
+              "lat": 40.4169,
+              "lng": -3.7033,
+              "department": "General"
+            },
+            {
+              "name": "Technische Universiteit Eindhoven",
+              "country": "Netherlands",
+              "lat": 51.4344,
+              "lng": 5.4842,
+              "department": "General"
+            }
+          ]
+        },
+        {
+          "name": "Agriculture",
+          "partners": [
+            {
+              "name": "Agricultural University Plovdiv",
+              "country": "Bulgaria",
+              "lat": 42.1434,
+              "lng": 24.751,
+              "department": "Agriculture"
+            },
+            {
+              "name": "University of Szeged",
+              "country": "Hungary",
+              "lat": 46.25,
+              "lng": 20.1667,
+              "department": "Faculty of Agriculture"
+            }
+          ]
+        },
+        {
+          "name": "Electrical Engineering",
+          "partners": [
+            {
+              "name": "University of Ruse Angel Kanchev",
+              "country": "Bulgaria",
+              "lat": 43.8445,
+              "lng": 25.9539,
+              "department": "Electrical Engineering"
+            },
+            {
+              "name": "Universidad de Oviedo",
+              "country": "Spain",
+              "lat": 43.36,
+              "lng": -5.845,
+              "department": "Electrical Engineering"
+            }
+          ]
+        },
+        {
+          "name": "Education",
+          "partners": [
+            {
+              "name": "Josip Juraj Strossmayer University of Osijek",
+              "country": "Croatia",
+              "lat": 45.5603,
+              "lng": 18.6703,
+              "department": "Faculty of Education"
+            }
+          ]
+        },
+        {
+          "name": "Environmental Sciences",
+          "partners": [
+            {
+              "name": "Czech University of Life Sciences",
+              "country": "Czechia",
+              "lat": 50.0875,
+              "lng": 14.4214,
+              "department": "Faculty of Environmental Sciences"
+            }
+          ]
+        },
+        {
+          "name": "Engineering",
+          "partners": [
+            {
+              "name": "Technical University of Liberec",
+              "country": "Czechia",
+              "lat": 50.7667,
+              "lng": 15.0667,
+              "department": "Faculty of Engineering"
+            },
+            {
+              "name": "Politehnica University of Bucharest",
+              "country": "Romania",
+              "lat": 44.4325,
+              "lng": 26.1039,
+              "department": "General"
+            },
+            {
+              "name": "Vilnius Gediminas Technical University",
+              "country": "Lithuania",
+              "lat": 54.6872,
+              "lng": 25.28,
+              "department": "General"
+            }
+          ]
+        },
+        {
+          "name": "Technology",
+          "partners": [
+            {
+              "name": "Brno University of Technology",
+              "country": "Czechia",
+              "lat": 49.1925,
+              "lng": 16.6083,
+              "department": "General"
+            },
+            {
+              "name": "Rezekne Academy of Technologies",
+              "country": "Latvia",
+              "lat": 56.5067,
+              "lng": 27.3308,
+              "department": "General"
+            }
+          ]
+        },
+        {
+          "name": "Informatics",
+          "partners": [
+            {
+              "name": "Tomas Bata University in Zlin",
+              "country": "Czechia",
+              "lat": 49.2331,
+              "lng": 17.6669,
+              "department": "Faculty of Applied Informatics"
+            }
+          ]
+        },
+        {
+          "name": "Music",
+          "partners": [
+            {
+              "name": "Estonian Academy of Music and Theatre",
+              "country": "Estonia",
+              "lat": 59.4372,
+              "lng": 24.7453,
+              "department": "Music"
+            }
+          ]
+        },
+        {
+          "name": "Health",
+          "partners": [
+            {
+              "name": "Tallinn Health Care College",
+              "country": "Estonia",
+              "lat": 59.4372,
+              "lng": 24.7453,
+              "department": "Health Sciences"
+            }
+          ]
+        },
+        {
+          "name": "Middle Eastern Studies",
+          "partners": [
+            {
+              "name": "Philipps Universität Marburg",
+              "country": "Germany",
+              "lat": 50.81,
+              "lng": 8.7708,
+              "department": "Center for Near and Middle Eastern Studies"
+            }
+          ]
+        },
+        {
+          "name": "Business",
+          "partners": [
+            {
+              "name": "University of West Attica",
+              "country": "Greece",
+              "lat": 37.9842,
+              "lng": 23.7281,
+              "department": "Department of Business Administration"
+            }
+          ]
+        },
+        {
+          "name": "Languages",
+          "partners": [
+            {
+              "name": "Adam Mickiewicz University in Poznań",
+              "country": "Poland",
+              "lat": 52.4083,
+              "lng": 16.9336,
+              "department": "Faculty of Modern Languages"
+            }
+          ]
+        },
+        {
+          "name": "Biology",
+          "partners": [
+            {
+              "name": "University of Silesia in Katowice",
+              "country": "Poland",
+              "lat": 50.2625,
+              "lng": 19.0217,
+              "department": "Institute of Biology"
+            },
+            {
+              "name": "Nicolaus Copernicus University of Torun",
+              "country": "Poland",
+              "lat": 53.0222,
+              "lng": 18.6111,
+              "department": "Faculty of Biological Sciences"
+            },
+            {
+              "name": "Universidad de Salamanca",
+              "country": "Spain",
+              "lat": 40.965,
+              "lng": -5.6642,
+              "department": "Facultad de Biología"
+            }
+          ]
+        },
+        {
+          "name": "Chemistry",
+          "partners": [
+            {
+              "name": "Wroclaw University of Science and Technology",
+              "country": "Poland",
+              "lat": 51.11,
+              "lng": 17.0325,
+              "department": "Faculty of Chemistry"
+            }
+          ]
+        },
+        {
+          "name": "Mathematics",
+          "partners": [
+            {
+              "name": "University of Aveiro",
+              "country": "Portugal",
+              "lat": 40.6389,
+              "lng": -8.6553,
+              "department": "Department of Mathematics"
+            }
+          ]
+        },
+        {
+          "name": "Architecture",
+          "partners": [
+            {
+              "name": "Politehnica University Timisoara",
+              "country": "Romania",
+              "lat": 45.7597,
+              "lng": 21.23,
+              "department": "Faculty of Architecture"
+            }
+          ]
+        },
+        {
+          "name": "Musicology",
+          "partners": [
+            {
+              "name": "University of Ljubljana",
+              "country": "Slovenia",
+              "lat": 46.0514,
+              "lng": 14.5061,
+              "department": "Department of Musicology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anadolu",
+      "name": "Anadolu University",
+      "city": "Eskişehir",
+      "lat": 39.7767,
+      "lng": 30.5206,
+      "departments": [
+        {
+          "name": "General",
+          "partners": [
+            {
+              "name": "University of Hagen",
+              "country": "Germany",
+              "lat": 51.3667,
+              "lng": 7.4833,
+              "department": "General"
+            },
+            {
+              "name": "Universidade Aberta",
+              "country": "Portugal",
+              "lat": 38.7122,
+              "lng": -9.134,
+              "department": "General"
+            },
+            {
+              "name": "Eszterhazy Karoly Catholic University",
+              "country": "Hungary",
+              "lat": 47.8989,
+              "lng": 20.3747,
+              "department": "General"
+            },
+            {
+              "name": "Polytechnic Institute of Porto",
+              "country": "Portugal",
+              "lat": 41.1495,
+              "lng": -8.6108,
+              "department": "General"
+            },
+            {
+              "name": "Lund University",
+              "country": "Sweden",
+              "lat": 55.7058,
+              "lng": 13.1932,
+              "department": "General"
+            },
+            {
+              "name": "University of Rzeszow",
+              "country": "Poland",
+              "lat": 50.0333,
+              "lng": 22,
+              "department": "General"
+            },
+            {
+              "name": "Universität Hildesheim",
+              "country": "Germany",
+              "lat": 52.15,
+              "lng": 9.95,
+              "department": "General"
+            },
+            {
+              "name": "Phillips-Universitat Marburg",
+              "country": "Germany",
+              "lat": 50.81,
+              "lng": 8.7708,
+              "department": "General"
+            },
+            {
+              "name": "Universita degli Studi di Cagliari",
+              "country": "Italy",
+              "lat": 39.2167,
+              "lng": 9.1167,
+              "department": "General"
+            },
+            {
+              "name": "Universita degli Studi G. d'Annunzio",
+              "country": "Italy",
+              "lat": 42.3511,
+              "lng": 14.1674,
+              "department": "General"
+            },
+            {
+              "name": "Polytechnic Institute of Guarda",
+              "country": "Portugal",
+              "lat": 40.5364,
+              "lng": -7.2683,
+              "department": "General"
+            },
+            {
+              "name": "Universidade de Lisboa",
+              "country": "Portugal",
+              "lat": 38.7122,
+              "lng": -9.134,
+              "department": "General"
+            },
+            {
+              "name": "Karl-Franzens-Universitat Graz",
+              "country": "Austria",
+              "lat": 47.0708,
+              "lng": 15.4386,
+              "department": "General"
+            },
+            {
+              "name": "University of Pardubice",
+              "country": "Czechia",
+              "lat": 50.0386,
+              "lng": 15.7792,
+              "department": "General"
+            },
+            {
+              "name": "Ruhr-Universitat Bochum",
+              "country": "Germany",
+              "lat": 51.4819,
+              "lng": 7.2158,
+              "department": "General"
+            },
+            {
+              "name": "Johannes Gutenberg Universitat Mainz",
+              "country": "Germany",
+              "lat": 49.9994,
+              "lng": 8.2736,
+              "department": "General"
+            },
+            {
+              "name": "Adam Mickiewicz University",
+              "country": "Poland",
+              "lat": 52.4083,
+              "lng": 16.9336,
+              "department": "General"
+            },
+            {
+              "name": "Alexandru Ioan Cuza University",
+              "country": "Romania",
+              "lat": 47.1622,
+              "lng": 27.5889,
+              "department": "General"
+            },
+            {
+              "name": "University of Ljubljana",
+              "country": "Slovenia",
+              "lat": 46.0514,
+              "lng": 14.5061,
+              "department": "General"
+            },
+            {
+              "name": "Universitat des Saarlandes",
+              "country": "Germany",
+              "lat": 49.2333,
+              "lng": 7,
+              "department": "General"
+            },
+            {
+              "name": "University of Szeged",
+              "country": "Hungary",
+              "lat": 46.25,
+              "lng": 20.1667,
+              "department": "General"
+            },
+            {
+              "name": "Daugavpils University",
+              "country": "Latvia",
+              "lat": 55.8714,
+              "lng": 26.5161,
+              "department": "General"
+            },
+            {
+              "name": "Liepaja University",
+              "country": "Latvia",
+              "lat": 56.5083,
+              "lng": 21.0111,
+              "department": "General"
+            },
+            {
+              "name": "University of Gdansk",
+              "country": "Poland",
+              "lat": 54.3475,
+              "lng": 18.6453,
+              "department": "General"
+            },
+            {
+              "name": "Nicolaus Copernicus University",
+              "country": "Poland",
+              "lat": 53.0222,
+              "lng": 18.6111,
+              "department": "General"
+            },
+            {
+              "name": "University of Valencia",
+              "country": "Spain",
+              "lat": 39.47,
+              "lng": -0.3764,
+              "department": "General"
+            },
+            {
+              "name": "Universita degli Studi di Padova",
+              "country": "Italy",
+              "lat": 45.4064,
+              "lng": 11.8778,
+              "department": "General"
+            },
+            {
+              "name": "Universidad de Granada",
+              "country": "Spain",
+              "lat": 37.1781,
+              "lng": -3.6008,
+              "department": "General"
+            },
+            {
+              "name": "Plovdiv University",
+              "country": "Bulgaria",
+              "lat": 42.1434,
+              "lng": 24.751,
+              "department": "General"
+            },
+            {
+              "name": "Konstantin Preslavsky University of Shumen",
+              "country": "Bulgaria",
+              "lat": 43.2746,
+              "lng": 26.9349,
+              "department": "General"
+            },
+            {
+              "name": "Jagiellonian University",
+              "country": "Poland",
+              "lat": 50.0614,
+              "lng": 19.9372,
+              "department": "General"
+            },
+            {
+              "name": "Ovidius University of Constanta",
+              "country": "Romania",
+              "lat": 44.1667,
+              "lng": 28.6333,
+              "department": "General"
+            },
+            {
+              "name": "Universite de Reims Champagne-Ardenne",
+              "country": "France",
+              "lat": 49.2628,
+              "lng": 4.0347,
+              "department": "General"
+            },
+            {
+              "name": "Goethe University Frankfurt",
+              "country": "Germany",
+              "lat": 50.1106,
+              "lng": 8.6822,
+              "department": "General"
+            },
+            {
+              "name": "Ludwig-Maximilians-Universitat München",
+              "country": "Germany",
+              "lat": 48.1375,
+              "lng": 11.575,
+              "department": "General"
+            },
+            {
+              "name": "Akademia Kujawsko-Pomorska",
+              "country": "Poland",
+              "lat": 53.1219,
+              "lng": 18.0003,
+              "department": "General"
+            },
+            {
+              "name": "Pomeranian University in Slupsk",
+              "country": "Poland",
+              "lat": 54.4658,
+              "lng": 17.0292,
+              "department": "General"
+            },
+            {
+              "name": "University of Craiova",
+              "country": "Romania",
+              "lat": 44.3333,
+              "lng": 23.8167,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Paderborn",
+              "country": "Germany",
+              "lat": 51.7181,
+              "lng": 8.7542,
+              "department": "General"
+            },
+            {
+              "name": "Universite de Rouen",
+              "country": "France",
+              "lat": 49.4428,
+              "lng": 1.0886,
+              "department": "General"
+            },
+            {
+              "name": "Universitatea Babes-Bolyai",
+              "country": "Romania",
+              "lat": 46.7667,
+              "lng": 23.5833,
+              "department": "General"
+            },
+            {
+              "name": "Jan Evangelista Purkyne University in Usti nad Labem",
+              "country": "Czechia",
+              "lat": 50.6583,
+              "lng": 14.0417,
+              "department": "General"
+            },
+            {
+              "name": "Polytechnic Institute of Leiria",
+              "country": "Portugal",
+              "lat": 39.7431,
+              "lng": -8.8069,
+              "department": "General"
+            },
+            {
+              "name": "Universidad de Santiago de Compostela",
+              "country": "Spain",
+              "lat": 42.8778,
+              "lng": -8.5444,
+              "department": "General"
+            },
+            {
+              "name": "Universidad de Huelva",
+              "country": "Spain",
+              "lat": 37.25,
+              "lng": -6.95,
+              "department": "General"
+            },
+            {
+              "name": "University of Murcia",
+              "country": "Spain",
+              "lat": 37.9861,
+              "lng": -1.1303,
+              "department": "General"
+            },
+            {
+              "name": "Kodolanyi Janos University",
+              "country": "Hungary",
+              "lat": 47.191,
+              "lng": 18.4108,
+              "department": "General"
+            },
+            {
+              "name": "Jan Dlugosz University in Czestochowa",
+              "country": "Poland",
+              "lat": 50.8,
+              "lng": 19.1167,
+              "department": "General"
+            },
+            {
+              "name": "Karkonosze State University",
+              "country": "Poland",
+              "lat": 50.9033,
+              "lng": 15.7344,
+              "department": "General"
+            },
+            {
+              "name": "University of Oradea",
+              "country": "Romania",
+              "lat": 47.0722,
+              "lng": 21.9211,
+              "department": "General"
+            },
+            {
+              "name": "Universidade de Coimbra",
+              "country": "Portugal",
+              "lat": 40.2111,
+              "lng": -8.4289,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet zu Köln",
+              "country": "Germany",
+              "lat": 50.9364,
+              "lng": 6.9528,
+              "department": "General"
+            },
+            {
+              "name": "University of Jaen",
+              "country": "Spain",
+              "lat": 37.7667,
+              "lng": -3.7711,
+              "department": "General"
+            },
+            {
+              "name": "Niccolo Cusano University",
+              "country": "Italy",
+              "lat": 41.8931,
+              "lng": 12.4828,
+              "department": "General"
+            },
+            {
+              "name": "University Stefan cel Mare Suceava",
+              "country": "Romania",
+              "lat": 47.6514,
+              "lng": 26.2556,
+              "department": "General"
+            },
+            {
+              "name": "Universita degli Studi di Milano-Bicocca",
+              "country": "Italy",
+              "lat": 45.4669,
+              "lng": 9.19,
+              "department": "General"
+            },
+            {
+              "name": "Mazovian Public University in Plock",
+              "country": "Poland",
+              "lat": 52.55,
+              "lng": 19.7,
+              "department": "General"
+            },
+            {
+              "name": "Radom Academy of Economics",
+              "country": "Poland",
+              "lat": 51.4036,
+              "lng": 21.1567,
+              "department": "General"
+            },
+            {
+              "name": "New Bulgarian University",
+              "country": "Bulgaria",
+              "lat": 42.6979,
+              "lng": 23.3217,
+              "department": "General"
+            },
+            {
+              "name": "Kaunas University of Applied Sciences",
+              "country": "Lithuania",
+              "lat": 54.9,
+              "lng": 23.9333,
+              "department": "General"
+            },
+            {
+              "name": "Volda University College",
+              "country": "Norway",
+              "lat": 62.15,
+              "lng": 6.1,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Ramon Llull",
+              "country": "Spain",
+              "lat": 41.3833,
+              "lng": 2.1833,
+              "department": "General"
+            },
+            {
+              "name": "University of West Attica",
+              "country": "Greece",
+              "lat": 37.992,
+              "lng": 23.678,
+              "department": "General"
+            },
+            {
+              "name": "University of West Hungary",
+              "country": "Hungary",
+              "lat": 47.6849,
+              "lng": 16.5831,
+              "department": "General"
+            },
+            {
+              "name": "Vytautas Magnus University",
+              "country": "Lithuania",
+              "lat": 54.9,
+              "lng": 23.9333,
+              "department": "General"
+            },
+            {
+              "name": "Inholland University of Applied Sciences",
+              "country": "Netherlands",
+              "lat": 52.08,
+              "lng": 4.31,
+              "department": "General"
+            },
+            {
+              "name": "Catholic University of Lublin",
+              "country": "Poland",
+              "lat": 51.25,
+              "lng": 22.5667,
+              "department": "General"
+            },
+            {
+              "name": "University of Wroclaw",
+              "country": "Poland",
+              "lat": 51.11,
+              "lng": 17.0325,
+              "department": "General"
+            },
+            {
+              "name": "Universitatea Romano-Americana",
+              "country": "Romania",
+              "lat": 44.4325,
+              "lng": 26.1039,
+              "department": "General"
+            },
+            {
+              "name": "University Dunarea de Jos of Galati",
+              "country": "Romania",
+              "lat": 45.4233,
+              "lng": 28.0425,
+              "department": "General"
+            },
+            {
+              "name": "Constantin Brancusi University",
+              "country": "Romania",
+              "lat": 45.0342,
+              "lng": 23.2747,
+              "department": "General"
+            },
+            {
+              "name": "Mendel University in Brno",
+              "country": "Czechia",
+              "lat": 49.1925,
+              "lng": 16.6083,
+              "department": "General"
+            },
+            {
+              "name": "University of Finance and Administration",
+              "country": "Czechia",
+              "lat": 50.0875,
+              "lng": 14.4214,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Kassel",
+              "country": "Germany",
+              "lat": 51.3158,
+              "lng": 9.4979,
+              "department": "General"
+            },
+            {
+              "name": "Universidad de Extremadura",
+              "country": "Spain",
+              "lat": 38.8803,
+              "lng": -6.9753,
+              "department": "General"
+            },
+            {
+              "name": "University of Leon",
+              "country": "Spain",
+              "lat": 42.6056,
+              "lng": -5.57,
+              "department": "General"
+            },
+            {
+              "name": "Université de Lille",
+              "country": "France",
+              "lat": 50.6278,
+              "lng": 3.0583,
+              "department": "General"
+            },
+            {
+              "name": "University of Rijeka",
+              "country": "Croatia",
+              "lat": 45.3333,
+              "lng": 14.4333,
+              "department": "General"
+            },
+            {
+              "name": "Aspira College",
+              "country": "Croatia",
+              "lat": 43.51,
+              "lng": 16.44,
+              "department": "General"
+            },
+            {
+              "name": "Czestochowa University of Technology",
+              "country": "Poland",
+              "lat": 50.8,
+              "lng": 19.1167,
+              "department": "General"
+            },
+            {
+              "name": "Powislanski College in Kwidzyn",
+              "country": "Poland",
+              "lat": 53.7358,
+              "lng": 18.9308,
+              "department": "General"
+            },
+            {
+              "name": "Lazarski University",
+              "country": "Poland",
+              "lat": 52.23,
+              "lng": 21.0111,
+              "department": "General"
+            },
+            {
+              "name": "Matej Bel University",
+              "country": "Slovakia",
+              "lat": 48.7353,
+              "lng": 19.1453,
+              "department": "General"
+            },
+            {
+              "name": "Haute Ecole de la Province de Liege",
+              "country": "Belgium",
+              "lat": 50.6397,
+              "lng": 5.5706,
+              "department": "General"
+            },
+            {
+              "name": "FOM Hochschule",
+              "country": "Germany",
+              "lat": 51.4508,
+              "lng": 7.0131,
+              "department": "General"
+            },
+            {
+              "name": "University of Applied Sciences Würzburg",
+              "country": "Germany",
+              "lat": 49.7833,
+              "lng": 9.9333,
+              "department": "General"
+            },
+            {
+              "name": "Universidad de Valladolid",
+              "country": "Spain",
+              "lat": 41.6528,
+              "lng": -4.7236,
+              "department": "General"
+            },
+            {
+              "name": "SMK University of Applied Social Sciences",
+              "country": "Lithuania",
+              "lat": 55.7125,
+              "lng": 21.135,
+              "department": "General"
+            },
+            {
+              "name": "HZ University of Applied Sciences",
+              "country": "Netherlands",
+              "lat": 51.45,
+              "lng": 3.5833,
+              "department": "General"
+            },
+            {
+              "name": "Polytechnic Institute of Santarem",
+              "country": "Portugal",
+              "lat": 39.2333,
+              "lng": -8.6833,
+              "department": "General"
+            },
+            {
+              "name": "University of Bielsko-Biala",
+              "country": "Poland",
+              "lat": 49.8225,
+              "lng": 19.0444,
+              "department": "General"
+            },
+            {
+              "name": "WSB University",
+              "country": "Poland",
+              "lat": 50.3214,
+              "lng": 19.1872,
+              "department": "General"
+            },
+            {
+              "name": "Kalisz University",
+              "country": "Poland",
+              "lat": 51.7575,
+              "lng": 18.08,
+              "department": "General"
+            },
+            {
+              "name": "Opole University of Technology",
+              "country": "Poland",
+              "lat": 50.6667,
+              "lng": 17.9333,
+              "department": "General"
+            },
+            {
+              "name": "University of A Coruna",
+              "country": "Spain",
+              "lat": 43.365,
+              "lng": -8.41,
+              "department": "General"
+            },
+            {
+              "name": "Aristotle University of Thessaloniki",
+              "country": "Greece",
+              "lat": 40.6403,
+              "lng": 22.9356,
+              "department": "General"
+            },
+            {
+              "name": "Windesheim University of Applied Sciences",
+              "country": "Netherlands",
+              "lat": 52.5167,
+              "lng": 6.1,
+              "department": "General"
+            },
+            {
+              "name": "University of Bucharest",
+              "country": "Romania",
+              "lat": 44.4325,
+              "lng": 26.1039,
+              "department": "General"
+            },
+            {
+              "name": "Université de Savoie",
+              "country": "France",
+              "lat": 45.57,
+              "lng": 5.9118,
+              "department": "General"
+            },
+            {
+              "name": "Budapest Metropolitan University",
+              "country": "Hungary",
+              "lat": 47.4983,
+              "lng": 19.0408,
+              "department": "General"
+            },
+            {
+              "name": "Hochschule RheinMain",
+              "country": "Germany",
+              "lat": 50.0825,
+              "lng": 8.24,
+              "department": "General"
+            },
+            {
+              "name": "Eotvos Lorand University",
+              "country": "Hungary",
+              "lat": 47.4983,
+              "lng": 19.0408,
+              "department": "General"
+            },
+            {
+              "name": "Universita degli Studi di Foggia",
+              "country": "Italy",
+              "lat": 41.4584,
+              "lng": 15.5519,
+              "department": "General"
+            },
+            {
+              "name": "South-West University Neofit Rilski",
+              "country": "Bulgaria",
+              "lat": 42.0227,
+              "lng": 23.0975,
+              "department": "General"
+            },
+            {
+              "name": "University of Potsdam",
+              "country": "Germany",
+              "lat": 52.4006,
+              "lng": 13.0592,
+              "department": "General"
+            },
+            {
+              "name": "Hochschule Düsseldorf",
+              "country": "Germany",
+              "lat": 51.2256,
+              "lng": 6.7767,
+              "department": "General"
+            },
+            {
+              "name": "Alice Salomon Hochschule Berlin",
+              "country": "Germany",
+              "lat": 52.52,
+              "lng": 13.405,
+              "department": "General"
+            },
+            {
+              "name": "Polytechnic Institute of Tomar",
+              "country": "Portugal",
+              "lat": 39.6,
+              "lng": -8.4167,
+              "department": "General"
+            }
+          ]
+        },
+        {
+          "name": "Music",
+          "partners": [
+            {
+              "name": "Estonian Academy of Music and Theatre",
+              "country": "Estonia",
+              "lat": 59.4372,
+              "lng": 24.7453,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Superior de Música Manuel Castillo",
+              "country": "Spain",
+              "lat": 37.39,
+              "lng": -5.99,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Superior de Música de Navarra",
+              "country": "Spain",
+              "lat": 42.8167,
+              "lng": -1.65,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio di Musica Stanislao Giacomantonio",
+              "country": "Italy",
+              "lat": 39.3,
+              "lng": 16.25,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio di Musica Lucio Campiani",
+              "country": "Italy",
+              "lat": 45.1564,
+              "lng": 10.7911,
+              "department": "Music"
+            },
+            {
+              "name": "The Fryderyk Chopin University of Music",
+              "country": "Poland",
+              "lat": 52.23,
+              "lng": 21.0111,
+              "department": "Music"
+            },
+            {
+              "name": "Staatliche Hochschule für Musik Trossingen",
+              "country": "Germany",
+              "lat": 48.0756,
+              "lng": 8.6361,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Statale di Musica G. B. Pergolesi",
+              "country": "Italy",
+              "lat": 43.1604,
+              "lng": 13.7181,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio di Musica Luigi Cherubini",
+              "country": "Italy",
+              "lat": 43.7714,
+              "lng": 11.2542,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Statale di Musica Giacomo Puccini",
+              "country": "Italy",
+              "lat": 44.108,
+              "lng": 9.8289,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio di Musica Giuseppe Nicolini",
+              "country": "Italy",
+              "lat": 45.05,
+              "lng": 9.7,
+              "department": "Music"
+            },
+            {
+              "name": "Stella Vorarlberg Privathochschule für Musik",
+              "country": "Austria",
+              "lat": 47.2381,
+              "lng": 9.5983,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio di Musica Arcangelo Corelli",
+              "country": "Italy",
+              "lat": 38.1936,
+              "lng": 15.5542,
+              "department": "Music"
+            },
+            {
+              "name": "Janacek Academy of Music and Performing Arts",
+              "country": "Czechia",
+              "lat": 49.1925,
+              "lng": 16.6083,
+              "department": "Music"
+            },
+            {
+              "name": "Lithuanian Academy of Music and Theatre Arts",
+              "country": "Lithuania",
+              "lat": 54.6872,
+              "lng": 25.28,
+              "department": "Music"
+            },
+            {
+              "name": "Akademia Muzyczna im. Grazyny i Kiejstuta Bacewiczow",
+              "country": "Poland",
+              "lat": 51.7769,
+              "lng": 19.4547,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio di Musica F.A. Bonporti",
+              "country": "Italy",
+              "lat": 46.0667,
+              "lng": 11.1167,
+              "department": "Music"
+            }
+          ]
+        },
+        {
+          "name": "Arts",
+          "partners": [
+            {
+              "name": "Artesis Plantijn Hogeschool Antwerpen",
+              "country": "Belgium",
+              "lat": 51.2178,
+              "lng": 4.4003,
+              "department": "General"
+            },
+            {
+              "name": "Escola Superior de Arte Dramática of Galicia",
+              "country": "Spain",
+              "lat": 42.2314,
+              "lng": -8.7124,
+              "department": "Drama"
+            },
+            {
+              "name": "Latvian Academy of Culture",
+              "country": "Latvia",
+              "lat": 56.9475,
+              "lng": 24.1069,
+              "department": "Culture"
+            },
+            {
+              "name": "University of Arts in Poznan",
+              "country": "Poland",
+              "lat": 52.4083,
+              "lng": 16.9336,
+              "department": "Fine Arts"
+            },
+            {
+              "name": "Accademia di Belle Arti di Carrara",
+              "country": "Italy",
+              "lat": 44.0833,
+              "lng": 10.1,
+              "department": "Fine Arts"
+            },
+            {
+              "name": "Eugeniusz Geppert Academy of Art and Design",
+              "country": "Poland",
+              "lat": 51.11,
+              "lng": 17.0325,
+              "department": "Fine Arts"
+            },
+            {
+              "name": "Escuela de Arte... de La Rioja",
+              "country": "Spain",
+              "lat": 42.465,
+              "lng": -2.4456,
+              "department": "Design"
+            },
+            {
+              "name": "Estonian Academy of Arts",
+              "country": "Estonia",
+              "lat": 59.4372,
+              "lng": 24.7453,
+              "department": "Fine Arts"
+            },
+            {
+              "name": "Upper School Art Design Marseille",
+              "country": "France",
+              "lat": 43.2964,
+              "lng": 5.37,
+              "department": "Fine Arts"
+            },
+            {
+              "name": "Vilnius Academy of Arts",
+              "country": "Lithuania",
+              "lat": 54.6872,
+              "lng": 25.28,
+              "department": "Fine Arts"
+            },
+            {
+              "name": "Escuela de Arte de Oviedo",
+              "country": "Spain",
+              "lat": 43.36,
+              "lng": -5.845,
+              "department": "Fine Arts"
+            },
+            {
+              "name": "National College of Art and Design",
+              "country": "Ireland",
+              "lat": 53.3497,
+              "lng": -6.2603,
+              "department": "Fine Arts"
+            },
+            {
+              "name": "Jan Matejko Academy of Fine Arts",
+              "country": "Poland",
+              "lat": 50.0614,
+              "lng": 19.9372,
+              "department": "Fine Arts"
+            },
+            {
+              "name": "Prague Academy of Performing Arts",
+              "country": "Czechia",
+              "lat": 50.0875,
+              "lng": 14.4214,
+              "department": "Arts"
+            }
+          ]
+        },
+        {
+          "name": "Theater",
+          "partners": [
+            {
+              "name": "National Academy for Theater and Film Arts (NATFA)",
+              "country": "Bulgaria",
+              "lat": 42.6979,
+              "lng": 23.3217,
+              "department": "Theater"
+            },
+            {
+              "name": "ENSATT",
+              "country": "France",
+              "lat": 45.76,
+              "lng": 4.84,
+              "department": "Theater"
+            }
+          ]
+        },
+        {
+          "name": "Languages",
+          "partners": [
+            {
+              "name": "Institut National des Langues et Civilisations Orientales",
+              "country": "France",
+              "lat": 48.8567,
+              "lng": 2.3522,
+              "department": "Languages"
+            }
+          ]
+        },
+        {
+          "name": "Education",
+          "partners": [
+            {
+              "name": "Freiburg University of Education",
+              "country": "Germany",
+              "lat": 47.995,
+              "lng": 7.85,
+              "department": "Education"
+            },
+            {
+              "name": "Padagogische Hochschule Vorarlberg",
+              "country": "Austria",
+              "lat": 47.2381,
+              "lng": 9.5983,
+              "department": "Education"
+            }
+          ]
+        },
+        {
+          "name": "Technology",
+          "partners": [
+            {
+              "name": "Technische Universitaet Dresden",
+              "country": "Germany",
+              "lat": 51.05,
+              "lng": 13.74,
+              "department": "General"
+            },
+            {
+              "name": "WSB-Technical University Ostrava",
+              "country": "Czechia",
+              "lat": 49.8356,
+              "lng": 18.2925,
+              "department": "General"
+            }
+          ]
+        },
+        {
+          "name": "Economics",
+          "partners": [
+            {
+              "name": "University of National and World Economy",
+              "country": "Bulgaria",
+              "lat": 42.6979,
+              "lng": 23.3217,
+              "department": "Economics"
+            },
+            {
+              "name": "Poznan University of Economics",
+              "country": "Poland",
+              "lat": 52.4083,
+              "lng": 16.9336,
+              "department": "Economics"
+            }
+          ]
+        },
+        {
+          "name": "Business",
+          "partners": [
+            {
+              "name": "GEA College",
+              "country": "Slovenia",
+              "lat": 45.5283,
+              "lng": 13.5683,
+              "department": "Business"
+            }
+          ]
+        },
+        {
+          "name": "Design",
+          "partners": [
+            {
+              "name": "L'Ecole de design Nantes Atlantique",
+              "country": "France",
+              "lat": 47.2181,
+              "lng": -1.5528,
+              "department": "Design"
+            },
+            {
+              "name": "Escola d'Art i Superior de Disseny Pau Gargallo",
+              "country": "Spain",
+              "lat": 41.4489,
+              "lng": 2.2461,
+              "department": "Design"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "istanbul",
+      "name": "Istanbul University",
+      "city": "Istanbul",
+      "lat": 41.0136,
+      "lng": 28.955,
+      "departments": [
+        {
+          "name": "General",
+          "partners": [
+            {
+              "name": "Universitaet Graz",
+              "country": "Austria",
+              "lat": 47.0708,
+              "lng": 15.4386,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Innsbruck",
+              "country": "Austria",
+              "lat": 47.2683,
+              "lng": 11.3933,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Linz",
+              "country": "Austria",
+              "lat": 48.3058,
+              "lng": 14.2864,
+              "department": "General"
+            },
+            {
+              "name": "Paris-Lodron-Universitat Salzburg",
+              "country": "Austria",
+              "lat": 47.8,
+              "lng": 13.045,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Wien",
+              "country": "Austria",
+              "lat": 48.2083,
+              "lng": 16.3725,
+              "department": "General"
+            },
+            {
+              "name": "Fh-Campus Wien",
+              "country": "Austria",
+              "lat": 48.2083,
+              "lng": 16.3725,
+              "department": "General"
+            },
+            {
+              "name": "Universiteit Antwerpen",
+              "country": "Belgium",
+              "lat": 51.2178,
+              "lng": 4.4003,
+              "department": "General"
+            },
+            {
+              "name": "Vrije Universiteit Brussel",
+              "country": "Belgium",
+              "lat": 50.8467,
+              "lng": 4.3525,
+              "department": "General"
+            },
+            {
+              "name": "Universiteit Gent",
+              "country": "Belgium",
+              "lat": 51.0536,
+              "lng": 3.7253,
+              "department": "General"
+            },
+            {
+              "name": "Arteveldehogeschool",
+              "country": "Belgium",
+              "lat": 51.0536,
+              "lng": 3.7253,
+              "department": "General"
+            },
+            {
+              "name": "Hogeschool PXL",
+              "country": "Belgium",
+              "lat": 50.9304,
+              "lng": 5.3383,
+              "department": "General"
+            },
+            {
+              "name": "Katholieke Universiteit Leuven",
+              "country": "Belgium",
+              "lat": 50.86,
+              "lng": 4.69,
+              "department": "General"
+            },
+            {
+              "name": "Universite De Liege",
+              "country": "Belgium",
+              "lat": 50.6397,
+              "lng": 5.5706,
+              "department": "General"
+            },
+            {
+              "name": "Haute École De La Province De Liège",
+              "country": "Belgium",
+              "lat": 50.6397,
+              "lng": 5.5706,
+              "department": "General"
+            },
+            {
+              "name": "Varna University Of Management",
+              "country": "Bulgaria",
+              "lat": 43.2114,
+              "lng": 27.9111,
+              "department": "General"
+            },
+            {
+              "name": "South-West University Neofit Rilski",
+              "country": "Bulgaria",
+              "lat": 42.0227,
+              "lng": 23.0975,
+              "department": "General"
+            },
+            {
+              "name": "University Of Ruse Angel Kanchev",
+              "country": "Bulgaria",
+              "lat": 43.8445,
+              "lng": 25.9539,
+              "department": "General"
+            },
+            {
+              "name": "New Bulgarian University",
+              "country": "Bulgaria",
+              "lat": 42.6979,
+              "lng": 23.3217,
+              "department": "General"
+            },
+            {
+              "name": "Sofia University St Kliment Ohridski",
+              "country": "Bulgaria",
+              "lat": 42.6979,
+              "lng": 23.3217,
+              "department": "General"
+            },
+            {
+              "name": "Bulgarian Academy Of Sciences",
+              "country": "Bulgaria",
+              "lat": 42.6979,
+              "lng": 23.3217,
+              "department": "General"
+            },
+            {
+              "name": "Trakia University",
+              "country": "Bulgaria",
+              "lat": 42.4333,
+              "lng": 25.65,
+              "department": "General"
+            },
+            {
+              "name": "Masaryk University Of Brno",
+              "country": "Czechia",
+              "lat": 49.1925,
+              "lng": 16.6083,
+              "department": "General"
+            },
+            {
+              "name": "University Of South Bohemia",
+              "country": "Czechia",
+              "lat": 48.9747,
+              "lng": 14.4747,
+              "department": "General"
+            },
+            {
+              "name": "Technical University Of Ostrava",
+              "country": "Czechia",
+              "lat": 49.8356,
+              "lng": 18.2925,
+              "department": "General"
+            },
+            {
+              "name": "University Of Ostrava",
+              "country": "Czechia",
+              "lat": 49.8356,
+              "lng": 18.2925,
+              "department": "General"
+            },
+            {
+              "name": "Univerzita Pardubice",
+              "country": "Czechia",
+              "lat": 50.0386,
+              "lng": 15.7792,
+              "department": "General"
+            },
+            {
+              "name": "University Of West Bohemia",
+              "country": "Czechia",
+              "lat": 49.7475,
+              "lng": 13.3775,
+              "department": "General"
+            },
+            {
+              "name": "Czech University Of Life Sciences Prague",
+              "country": "Czechia",
+              "lat": 50.0875,
+              "lng": 14.4214,
+              "department": "General"
+            },
+            {
+              "name": "Univerzita Karlova",
+              "country": "Czechia",
+              "lat": 50.0875,
+              "lng": 14.4214,
+              "department": "General"
+            },
+            {
+              "name": "Ceske Vysoke Uceni Technicke V Praze",
+              "country": "Czechia",
+              "lat": 50.0875,
+              "lng": 14.4214,
+              "department": "General"
+            },
+            {
+              "name": "Univerzita Tomase Bati Ve Zline",
+              "country": "Czechia",
+              "lat": 49.2331,
+              "lng": 17.6669,
+              "department": "General"
+            },
+            {
+              "name": "Fachhochschule Bielefeld",
+              "country": "Germany",
+              "lat": 52.0211,
+              "lng": 8.5347,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Augsburg",
+              "country": "Germany",
+              "lat": 48.3689,
+              "lng": 10.8978,
+              "department": "General"
+            },
+            {
+              "name": "Freie Universitaet Berlin",
+              "country": "Germany",
+              "lat": 52.52,
+              "lng": 13.405,
+              "department": "General"
+            },
+            {
+              "name": "Humboldt-Universitaet Zu Berlin",
+              "country": "Germany",
+              "lat": 52.52,
+              "lng": 13.405,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Bielefeld",
+              "country": "Germany",
+              "lat": 52.0211,
+              "lng": 8.5347,
+              "department": "General"
+            },
+            {
+              "name": "Ruhr-Universitaet Bochum",
+              "country": "Germany",
+              "lat": 51.4819,
+              "lng": 7.2158,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Bonn",
+              "country": "Germany",
+              "lat": 50.7353,
+              "lng": 7.1022,
+              "department": "General"
+            },
+            {
+              "name": "Hochschule Bonn-Rhein-Sieg",
+              "country": "Germany",
+              "lat": 50.77,
+              "lng": 7.1867,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Bremen",
+              "country": "Germany",
+              "lat": 53.0758,
+              "lng": 8.8072,
+              "department": "General"
+            },
+            {
+              "name": "Hochschule Bremerhaven",
+              "country": "Germany",
+              "lat": 53.55,
+              "lng": 8.5833,
+              "department": "General"
+            },
+            {
+              "name": "Heinrich-Heine-Universitaet Duesseldorf",
+              "country": "Germany",
+              "lat": 51.2256,
+              "lng": 6.7767,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Erlangen-Nuernberg",
+              "country": "Germany",
+              "lat": 49.5833,
+              "lng": 11.0167,
+              "department": "General"
+            },
+            {
+              "name": "Goethe-Universitaet Frankfurt",
+              "country": "Germany",
+              "lat": 50.1106,
+              "lng": 8.6822,
+              "department": "General"
+            },
+            {
+              "name": "Frankfurt University Of Applied Sciences",
+              "country": "Germany",
+              "lat": 50.1106,
+              "lng": 8.6822,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Freiburg",
+              "country": "Germany",
+              "lat": 47.995,
+              "lng": 7.85,
+              "department": "General"
+            },
+            {
+              "name": "Hochschule Furtwangen",
+              "country": "Germany",
+              "lat": 48.0503,
+              "lng": 8.2092,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Giessen",
+              "country": "Germany",
+              "lat": 50.5833,
+              "lng": 8.6667,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Gottingen",
+              "country": "Germany",
+              "lat": 51.5339,
+              "lng": 9.9356,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Hamburg",
+              "country": "Germany",
+              "lat": 53.55,
+              "lng": 10,
+              "department": "General"
+            },
+            {
+              "name": "Kuhne Logistics University",
+              "country": "Germany",
+              "lat": 53.55,
+              "lng": 10,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Hannover",
+              "country": "Germany",
+              "lat": 52.3667,
+              "lng": 9.7167,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Heidelberg",
+              "country": "Germany",
+              "lat": 49.4167,
+              "lng": 8.7167,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Kassel",
+              "country": "Germany",
+              "lat": 51.3158,
+              "lng": 9.4979,
+              "department": "General"
+            },
+            {
+              "name": "University Of Cologne",
+              "country": "Germany",
+              "lat": 50.9364,
+              "lng": 6.9528,
+              "department": "General"
+            },
+            {
+              "name": "Katholische Fachhochschule Nordrhein-Westfalen",
+              "country": "Germany",
+              "lat": 50.9364,
+              "lng": 6.9528,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Konstanz",
+              "country": "Germany",
+              "lat": 47.6667,
+              "lng": 9.1833,
+              "department": "General"
+            },
+            {
+              "name": "Hochschule Magdeburg-Stendal",
+              "country": "Germany",
+              "lat": 52.1317,
+              "lng": 11.6392,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Mainz",
+              "country": "Germany",
+              "lat": 49.9994,
+              "lng": 8.2736,
+              "department": "General"
+            },
+            {
+              "name": "University Of Mannheim",
+              "country": "Germany",
+              "lat": 49.4878,
+              "lng": 8.4661,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Marburg",
+              "country": "Germany",
+              "lat": 50.81,
+              "lng": 8.7708,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Muenchen",
+              "country": "Germany",
+              "lat": 48.1375,
+              "lng": 11.575,
+              "department": "General"
+            },
+            {
+              "name": "University Of Münster",
+              "country": "Germany",
+              "lat": 51.9625,
+              "lng": 7.6256,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Paderborn",
+              "country": "Germany",
+              "lat": 51.7181,
+              "lng": 8.7542,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Passau",
+              "country": "Germany",
+              "lat": 48.5744,
+              "lng": 13.4647,
+              "department": "General"
+            },
+            {
+              "name": "Hochschule Pforzheim",
+              "country": "Germany",
+              "lat": 48.895,
+              "lng": 8.705,
+              "department": "General"
+            },
+            {
+              "name": "Ravensburg University Of Cooperative Education",
+              "country": "Germany",
+              "lat": 47.7831,
+              "lng": 9.6114,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Rostock",
+              "country": "Germany",
+              "lat": 54.0833,
+              "lng": 12.1333,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Des Saarlandes",
+              "country": "Germany",
+              "lat": 49.2333,
+              "lng": 7,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Trier",
+              "country": "Germany",
+              "lat": 49.7567,
+              "lng": 6.6414,
+              "department": "General"
+            },
+            {
+              "name": "Universitaet Tuebingen",
+              "country": "Germany",
+              "lat": 48.52,
+              "lng": 9.0556,
+              "department": "General"
+            },
+            {
+              "name": "Ostbayerische Technische Hochschule Amberg-Weiden",
+              "country": "Germany",
+              "lat": 49.4444,
+              "lng": 11.8483,
+              "department": "General"
+            },
+            {
+              "name": "Hochschule Worms",
+              "country": "Germany",
+              "lat": 49.6319,
+              "lng": 8.3665,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Wurzburg",
+              "country": "Germany",
+              "lat": 49.7833,
+              "lng": 9.9333,
+              "department": "General"
+            },
+            {
+              "name": "University Of Copenhagen",
+              "country": "Denmark",
+              "lat": 55.6805,
+              "lng": 12.5615,
+              "department": "General"
+            },
+            {
+              "name": "Dania Academy",
+              "country": "Denmark",
+              "lat": 56.4607,
+              "lng": 10.0364,
+              "department": "General"
+            },
+            {
+              "name": "Universidad De Alcala",
+              "country": "Spain",
+              "lat": 40.4667,
+              "lng": -3.3667,
+              "department": "General"
+            },
+            {
+              "name": "Universidad De Almeria",
+              "country": "Spain",
+              "lat": 36.8417,
+              "lng": -2.4639,
+              "department": "General"
+            },
+            {
+              "name": "Universitat De Barcelona",
+              "country": "Spain",
+              "lat": 41.3833,
+              "lng": 2.1833,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Ramon Llull",
+              "country": "Spain",
+              "lat": 41.3833,
+              "lng": 2.1833,
+              "department": "General"
+            },
+            {
+              "name": "Universidad De Burgos",
+              "country": "Spain",
+              "lat": 42.35,
+              "lng": -3.7067,
+              "department": "General"
+            },
+            {
+              "name": "Universidad De Castilla - La Mancha",
+              "country": "Spain",
+              "lat": 38.9833,
+              "lng": -3.9167,
+              "department": "General"
+            },
+            {
+              "name": "Universitat De Girona",
+              "country": "Spain",
+              "lat": 41.9844,
+              "lng": 2.8211,
+              "department": "General"
+            },
+            {
+              "name": "Universidad De Granada",
+              "country": "Spain",
+              "lat": 37.1781,
+              "lng": -3.6008,
+              "department": "General"
+            },
+            {
+              "name": "Universidad Complutense De Madrid",
+              "country": "Spain",
+              "lat": 40.4169,
+              "lng": -3.7033,
+              "department": "General"
+            },
+            {
+              "name": "Universidad Autonoma De Madrid",
+              "country": "Spain",
+              "lat": 40.4169,
+              "lng": -3.7033,
+              "department": "General"
+            },
+            {
+              "name": "Universidad Rey Juan Carlos",
+              "country": "Spain",
+              "lat": 40.4169,
+              "lng": -3.7033,
+              "department": "General"
+            },
+            {
+              "name": "Universidad De Malaga",
+              "country": "Spain",
+              "lat": 36.7194,
+              "lng": -4.42,
+              "department": "General"
+            },
+            {
+              "name": "Universidad De Murcia",
+              "country": "Spain",
+              "lat": 37.9861,
+              "lng": -1.1303,
+              "department": "General"
+            },
+            {
+              "name": "Universidad De Oviedo",
+              "country": "Spain",
+              "lat": 43.36,
+              "lng": -5.845,
+              "department": "General"
+            },
+            {
+              "name": "Universidad Publica De Navarra",
+              "country": "Spain",
+              "lat": 42.8167,
+              "lng": -1.65,
+              "department": "General"
+            },
+            {
+              "name": "Universidad De Salamanca",
+              "country": "Spain",
+              "lat": 40.965,
+              "lng": -5.6642,
+              "department": "General"
+            },
+            {
+              "name": "Universidad De Santiago De Compostela",
+              "country": "Spain",
+              "lat": 42.8778,
+              "lng": -8.5444,
+              "department": "General"
+            },
+            {
+              "name": "The Rovira I Virgili University",
+              "country": "Spain",
+              "lat": 41.1175,
+              "lng": 1.2528,
+              "department": "General"
+            },
+            {
+              "name": "Universitat De Valencia",
+              "country": "Spain",
+              "lat": 39.47,
+              "lng": -0.3764,
+              "department": "General"
+            },
+            {
+              "name": "Universidad De Vigo",
+              "country": "Spain",
+              "lat": 42.2314,
+              "lng": -8.7124,
+              "department": "General"
+            },
+            {
+              "name": "University Of Zaragoza",
+              "country": "Spain",
+              "lat": 41.65,
+              "lng": -0.8833,
+              "department": "General"
+            },
+            {
+              "name": "Fundacion Universidad San Jorge",
+              "country": "Spain",
+              "lat": 41.65,
+              "lng": -0.8833,
+              "department": "General"
+            },
+            {
+              "name": "Tallinn University Of Technology",
+              "country": "Estonia",
+              "lat": 59.4372,
+              "lng": 24.7453,
+              "department": "General"
+            },
+            {
+              "name": "Universite De Franche-Comte",
+              "country": "France",
+              "lat": 47.24,
+              "lng": 6.02,
+              "department": "General"
+            },
+            {
+              "name": "Universite De Caen Normandie",
+              "country": "France",
+              "lat": 49.1814,
+              "lng": -0.3636,
+              "department": "General"
+            },
+            {
+              "name": "Cy Cergy Paris University",
+              "country": "France",
+              "lat": 49.0361,
+              "lng": 2.0631,
+              "department": "General"
+            },
+            {
+              "name": "Université Grenoble Alpes",
+              "country": "France",
+              "lat": 45.1715,
+              "lng": 5.7224,
+              "department": "General"
+            },
+            {
+              "name": "Excelia Group",
+              "country": "France",
+              "lat": 46.16,
+              "lng": -1.15,
+              "department": "General"
+            },
+            {
+              "name": "Universite De Limoges",
+              "country": "France",
+              "lat": 45.8353,
+              "lng": 1.2625,
+              "department": "General"
+            },
+            {
+              "name": "Universite Lumiere Lyon 2",
+              "country": "France",
+              "lat": 45.76,
+              "lng": 4.84,
+              "department": "General"
+            },
+            {
+              "name": "Universite D'aix Marseille",
+              "country": "France",
+              "lat": 43.2964,
+              "lng": 5.37,
+              "department": "General"
+            },
+            {
+              "name": "Orleans University",
+              "country": "France",
+              "lat": 47.9025,
+              "lng": 1.909,
+              "department": "General"
+            },
+            {
+              "name": "Universite Paris Nanterre",
+              "country": "France",
+              "lat": 48.8988,
+              "lng": 2.1969,
+              "department": "General"
+            },
+            {
+              "name": "Universite Paris 13",
+              "country": "France",
+              "lat": 48.8567,
+              "lng": 2.3522,
+              "department": "General"
+            },
+            {
+              "name": "Universite De Paris",
+              "country": "France",
+              "lat": 48.8567,
+              "lng": 2.3522,
+              "department": "General"
+            },
+            {
+              "name": "Universite Paris XII Val De Marne",
+              "country": "France",
+              "lat": 48.7911,
+              "lng": 2.4628,
+              "department": "General"
+            },
+            {
+              "name": "Rennes School Of Business",
+              "country": "France",
+              "lat": 48.1147,
+              "lng": -1.6794,
+              "department": "General"
+            },
+            {
+              "name": "The University Of Rouen Normandy",
+              "country": "France",
+              "lat": 49.4428,
+              "lng": 1.0886,
+              "department": "General"
+            },
+            {
+              "name": "University Of Strasbourg",
+              "country": "France",
+              "lat": 48.5833,
+              "lng": 7.7458,
+              "department": "General"
+            },
+            {
+              "name": "University Of Toulouse-Jean Jaurès",
+              "country": "France",
+              "lat": 43.6045,
+              "lng": 1.444,
+              "department": "General"
+            },
+            {
+              "name": "National And Kapodistrian University Of Athens",
+              "country": "Greece",
+              "lat": 37.9842,
+              "lng": 23.7281,
+              "department": "General"
+            },
+            {
+              "name": "Ionian University",
+              "country": "Greece",
+              "lat": 39.6239,
+              "lng": 19.9214,
+              "department": "General"
+            },
+            {
+              "name": "University Of West Attica",
+              "country": "Greece",
+              "lat": 37.992,
+              "lng": 23.678,
+              "department": "General"
+            },
+            {
+              "name": "The University Of Ioannina",
+              "country": "Greece",
+              "lat": 39.6636,
+              "lng": 20.8522,
+              "department": "General"
+            },
+            {
+              "name": "Harokopio University",
+              "country": "Greece",
+              "lat": 37.95,
+              "lng": 23.7,
+              "department": "General"
+            },
+            {
+              "name": "Democritus University Of Thrace",
+              "country": "Greece",
+              "lat": 41.1219,
+              "lng": 25.4042,
+              "department": "General"
+            },
+            {
+              "name": "The Aristotle University Of Thessaloniki",
+              "country": "Greece",
+              "lat": 40.6403,
+              "lng": 22.9356,
+              "department": "General"
+            },
+            {
+              "name": "University Of Macedonia",
+              "country": "Greece",
+              "lat": 40.6403,
+              "lng": 22.9356,
+              "department": "General"
+            },
+            {
+              "name": "The International Hellenic University",
+              "country": "Greece",
+              "lat": 40.6403,
+              "lng": 22.9356,
+              "department": "General"
+            },
+            {
+              "name": "University Of Thessaly",
+              "country": "Greece",
+              "lat": 39.3667,
+              "lng": 22.9333,
+              "department": "General"
+            },
+            {
+              "name": "University Of Dubrovnik",
+              "country": "Croatia",
+              "lat": 42.6403,
+              "lng": 18.1083,
+              "department": "General"
+            },
+            {
+              "name": "Juraj Dobrila University Of Pula",
+              "country": "Croatia",
+              "lat": 44.8703,
+              "lng": 13.8456,
+              "department": "General"
+            },
+            {
+              "name": "University Of Rijeka",
+              "country": "Croatia",
+              "lat": 45.3333,
+              "lng": 14.4333,
+              "department": "General"
+            },
+            {
+              "name": "University North",
+              "country": "Croatia",
+              "lat": 46.3081,
+              "lng": 16.3378,
+              "department": "General"
+            },
+            {
+              "name": "Sveuciliste U Zagrebu",
+              "country": "Croatia",
+              "lat": 45.8131,
+              "lng": 15.9772,
+              "department": "General"
+            },
+            {
+              "name": "Eotvos Lorand Tudomanyegyetem",
+              "country": "Hungary",
+              "lat": 47.4983,
+              "lng": 19.0408,
+              "department": "General"
+            },
+            {
+              "name": "Karoli Gaspar Reformatus Egyetem",
+              "country": "Hungary",
+              "lat": 47.4983,
+              "lng": 19.0408,
+              "department": "General"
+            },
+            {
+              "name": "Debreceni Egyetem",
+              "country": "Hungary",
+              "lat": 47.53,
+              "lng": 21.6392,
+              "department": "General"
+            },
+            {
+              "name": "Szechenyi Istvan University",
+              "country": "Hungary",
+              "lat": 47.6842,
+              "lng": 17.6344,
+              "department": "General"
+            },
+            {
+              "name": "Miskolci Egyetem",
+              "country": "Hungary",
+              "lat": 48.1,
+              "lng": 20.7833,
+              "department": "General"
+            },
+            {
+              "name": "Pecsi Tudomanyegyetem",
+              "country": "Hungary",
+              "lat": 46.0708,
+              "lng": 18.2331,
+              "department": "General"
+            },
+            {
+              "name": "Szegedi Tudomanyegyetem",
+              "country": "Hungary",
+              "lat": 46.25,
+              "lng": 20.1667,
+              "department": "General"
+            },
+            {
+              "name": "Università Politecnica Delle Marche",
+              "country": "Italy",
+              "lat": 43.6167,
+              "lng": 13.5167,
+              "department": "General"
+            },
+            {
+              "name": "Alma Mater Studiorum -Universita Di Bologna",
+              "country": "Italy",
+              "lat": 44.4939,
+              "lng": 11.3428,
+              "department": "General"
+            },
+            {
+              "name": "Università Degli Studi Di Cassino",
+              "country": "Italy",
+              "lat": 41.4917,
+              "lng": 13.8333,
+              "department": "General"
+            },
+            {
+              "name": "Università Degli Studi Gabriele D'annunzio",
+              "country": "Italy",
+              "lat": 42.3511,
+              "lng": 14.1674,
+              "department": "General"
+            },
+            {
+              "name": "Università Degli Studi Di Firenze",
+              "country": "Italy",
+              "lat": 43.7714,
+              "lng": 11.2542,
+              "department": "General"
+            },
+            {
+              "name": "Università Del Salento",
+              "country": "Italy",
+              "lat": 40.352,
+              "lng": 18.1691,
+              "department": "General"
+            },
+            {
+              "name": "Università Degli Studi Di Messina",
+              "country": "Italy",
+              "lat": 38.1936,
+              "lng": 15.5542,
+              "department": "General"
+            },
+            {
+              "name": "Universita' Degli Studi Di Milano-Bicocca",
+              "country": "Italy",
+              "lat": 45.4669,
+              "lng": 9.19,
+              "department": "General"
+            },
+            {
+              "name": "Università Degli Studi Di Modena E Reggio Emilia",
+              "country": "Italy",
+              "lat": 44.6458,
+              "lng": 10.9257,
+              "department": "General"
+            },
+            {
+              "name": "Università Degli Studi Di Napoli Federico Ii",
+              "country": "Italy",
+              "lat": 40.8358,
+              "lng": 14.2486,
+              "department": "General"
+            },
+            {
+              "name": "Università Degli Studi Di Napoli L'orientale",
+              "country": "Italy",
+              "lat": 40.8358,
+              "lng": 14.2486,
+              "department": "General"
+            },
+            {
+              "name": "Università Degli Studi Suor Orsola Benincasa",
+              "country": "Italy",
+              "lat": 40.8358,
+              "lng": 14.2486,
+              "department": "General"
+            },
+            {
+              "name": "Università Degli Studi Di Padova",
+              "country": "Italy",
+              "lat": 45.4064,
+              "lng": 11.8778,
+              "department": "General"
+            },
+            {
+              "name": "Via Universita 12",
+              "country": "Italy",
+              "lat": 44.8015,
+              "lng": 10.328,
+              "department": "General"
+            },
+            {
+              "name": "Università Degli Studi Di Pavia",
+              "country": "Italy",
+              "lat": 45.1853,
+              "lng": 9.155,
+              "department": "General"
+            },
+            {
+              "name": "Università Degli Studi Di Perugia",
+              "country": "Italy",
+              "lat": 43.1121,
+              "lng": 12.3888,
+              "department": "General"
+            },
+            {
+              "name": "Universita Di Pisa",
+              "country": "Italy",
+              "lat": 43.7167,
+              "lng": 10.4,
+              "department": "General"
+            },
+            {
+              "name": "Università Degli Studi Di Roma La Sapienza",
+              "country": "Italy",
+              "lat": 41.8931,
+              "lng": 12.4828,
+              "department": "General"
+            },
+            {
+              "name": "Università Degli Studi Di Roma Tor Vergata",
+              "country": "Italy",
+              "lat": 41.8931,
+              "lng": 12.4828,
+              "department": "General"
+            },
+            {
+              "name": "Universita Degli Studi Roma Tre",
+              "country": "Italy",
+              "lat": 41.8931,
+              "lng": 12.4828,
+              "department": "General"
+            },
+            {
+              "name": "Universita Degli Studi Di Sassari",
+              "country": "Italy",
+              "lat": 40.7267,
+              "lng": 8.5592,
+              "department": "General"
+            },
+            {
+              "name": "Universita Degli Studi Di Siena",
+              "country": "Italy",
+              "lat": 43.3183,
+              "lng": 11.3314,
+              "department": "General"
+            },
+            {
+              "name": "University Of Trento",
+              "country": "Italy",
+              "lat": 46.0667,
+              "lng": 11.1167,
+              "department": "General"
+            },
+            {
+              "name": "Universita Degli Studi Dell'insubria",
+              "country": "Italy",
+              "lat": 45.8167,
+              "lng": 8.8333,
+              "department": "General"
+            },
+            {
+              "name": "Ca' Foscari University Of Venice",
+              "country": "Italy",
+              "lat": 45.4397,
+              "lng": 12.3319,
+              "department": "General"
+            },
+            {
+              "name": "Universita Degli Studi Di Verona",
+              "country": "Italy",
+              "lat": 45.4386,
+              "lng": 10.9928,
+              "department": "General"
+            },
+            {
+              "name": "Tuscia University",
+              "country": "Italy",
+              "lat": 42.4186,
+              "lng": 12.1042,
+              "department": "General"
+            },
+            {
+              "name": "Vytautas Magnus University",
+              "country": "Lithuania",
+              "lat": 54.9,
+              "lng": 23.9333,
+              "department": "General"
+            },
+            {
+              "name": "Klaipeda University",
+              "country": "Lithuania",
+              "lat": 55.7125,
+              "lng": 21.135,
+              "department": "General"
+            },
+            {
+              "name": "Šiauliai State College",
+              "country": "Lithuania",
+              "lat": 55.9281,
+              "lng": 23.3167,
+              "department": "General"
+            },
+            {
+              "name": "Vilniaus Universitetas",
+              "country": "Lithuania",
+              "lat": 54.6872,
+              "lng": 25.28,
+              "department": "General"
+            },
+            {
+              "name": "Vilniaus Gedimino Technikos Universitetas",
+              "country": "Lithuania",
+              "lat": 54.6872,
+              "lng": 25.28,
+              "department": "General"
+            },
+            {
+              "name": "Universite Du Luxembourg",
+              "country": "Luxembourg",
+              "lat": 49.6117,
+              "lng": 6.1319,
+              "department": "General"
+            },
+            {
+              "name": "Nla Hogskolen As",
+              "country": "Norway",
+              "lat": 60.3925,
+              "lng": 5.3233,
+              "department": "General"
+            },
+            {
+              "name": "University Of Oslo",
+              "country": "Norway",
+              "lat": 59.9133,
+              "lng": 10.7389,
+              "department": "General"
+            },
+            {
+              "name": "Kristiania University College",
+              "country": "Norway",
+              "lat": 59.9133,
+              "lng": 10.7389,
+              "department": "General"
+            },
+            {
+              "name": "Universiteit Van Amsterdam",
+              "country": "Netherlands",
+              "lat": 52.3728,
+              "lng": 4.8936,
+              "department": "General"
+            },
+            {
+              "name": "Christelijke Hogeschool Ede",
+              "country": "Netherlands",
+              "lat": 52.0436,
+              "lng": 5.6667,
+              "department": "General"
+            },
+            {
+              "name": "University Of Twente",
+              "country": "Netherlands",
+              "lat": 52.2225,
+              "lng": 6.8925,
+              "department": "General"
+            },
+            {
+              "name": "University Of Groningen",
+              "country": "Netherlands",
+              "lat": 53.2167,
+              "lng": 6.5667,
+              "department": "General"
+            },
+            {
+              "name": "Leiden University",
+              "country": "Netherlands",
+              "lat": 52.16,
+              "lng": 4.49,
+              "department": "General"
+            },
+            {
+              "name": "Radboud University",
+              "country": "Netherlands",
+              "lat": 51.8425,
+              "lng": 5.8528,
+              "department": "General"
+            },
+            {
+              "name": "Erasmus University Rotterdam",
+              "country": "Netherlands",
+              "lat": 51.92,
+              "lng": 4.48,
+              "department": "General"
+            },
+            {
+              "name": "Rotterdam University Of Applied Sciences",
+              "country": "Netherlands",
+              "lat": 51.92,
+              "lng": 4.48,
+              "department": "General"
+            },
+            {
+              "name": "Instituto Politécnico De Portalegre",
+              "country": "Portugal",
+              "lat": 39.3167,
+              "lng": -7.4167,
+              "department": "General"
+            },
+            {
+              "name": "University Of The Azores",
+              "country": "Portugal",
+              "lat": 37.74,
+              "lng": -25.67,
+              "department": "General"
+            },
+            {
+              "name": "Universidade Do Minho",
+              "country": "Portugal",
+              "lat": 41.5503,
+              "lng": -8.42,
+              "department": "General"
+            },
+            {
+              "name": "University Of Coimbra",
+              "country": "Portugal",
+              "lat": 40.2111,
+              "lng": -8.4289,
+              "department": "General"
+            },
+            {
+              "name": "Polytechnic Of Coimbra",
+              "country": "Portugal",
+              "lat": 40.2111,
+              "lng": -8.4289,
+              "department": "General"
+            },
+            {
+              "name": "Universidade De Évora",
+              "country": "Portugal",
+              "lat": 38.5667,
+              "lng": -7.9,
+              "department": "General"
+            },
+            {
+              "name": "Universidade NOVA De Lisboa",
+              "country": "Portugal",
+              "lat": 38.7122,
+              "lng": -9.134,
+              "department": "General"
+            },
+            {
+              "name": "Polytechnic Institute Of Lisbon",
+              "country": "Portugal",
+              "lat": 38.7122,
+              "lng": -9.134,
+              "department": "General"
+            },
+            {
+              "name": "University Institute Of Lisbon",
+              "country": "Portugal",
+              "lat": 38.7122,
+              "lng": -9.134,
+              "department": "General"
+            },
+            {
+              "name": "Polytechnic Of Porto",
+              "country": "Portugal",
+              "lat": 41.1495,
+              "lng": -8.6108,
+              "department": "General"
+            },
+            {
+              "name": "The Polytechnic Institute Of Tomar",
+              "country": "Portugal",
+              "lat": 39.6,
+              "lng": -8.4167,
+              "department": "General"
+            },
+            {
+              "name": "Universidade De Trás-Os-Montes E Alto Douro",
+              "country": "Portugal",
+              "lat": 41.2953,
+              "lng": -7.7461,
+              "department": "General"
+            },
+            {
+              "name": "Polytechnic Institute Of Viseu",
+              "country": "Portugal",
+              "lat": 40.6575,
+              "lng": -7.9139,
+              "department": "General"
+            },
+            {
+              "name": "Bialystok University",
+              "country": "Poland",
+              "lat": 53.1353,
+              "lng": 23.1456,
+              "department": "General"
+            },
+            {
+              "name": "University Of Gdansk",
+              "country": "Poland",
+              "lat": 54.3475,
+              "lng": 18.6453,
+              "department": "General"
+            },
+            {
+              "name": "Uniwersytet Śląski W Katowicach",
+              "country": "Poland",
+              "lat": 50.2625,
+              "lng": 19.0217,
+              "department": "General"
+            },
+            {
+              "name": "Jagiellonian University",
+              "country": "Poland",
+              "lat": 50.0614,
+              "lng": 19.9372,
+              "department": "General"
+            },
+            {
+              "name": "The Pedagogical University Of Krakow",
+              "country": "Poland",
+              "lat": 50.0614,
+              "lng": 19.9372,
+              "department": "General"
+            },
+            {
+              "name": "University Of Lodz",
+              "country": "Poland",
+              "lat": 51.7769,
+              "lng": 19.4547,
+              "department": "General"
+            },
+            {
+              "name": "Maria Curie-Sklodowska University",
+              "country": "Poland",
+              "lat": 51.25,
+              "lng": 22.5667,
+              "department": "General"
+            },
+            {
+              "name": "The John Paul II Catholic University Of Lublin",
+              "country": "Poland",
+              "lat": 51.25,
+              "lng": 22.5667,
+              "department": "General"
+            },
+            {
+              "name": "Adam Mickiewicz University",
+              "country": "Poland",
+              "lat": 52.4083,
+              "lng": 16.9336,
+              "department": "General"
+            },
+            {
+              "name": "University Of Rzeszów",
+              "country": "Poland",
+              "lat": 50.0333,
+              "lng": 22,
+              "department": "General"
+            },
+            {
+              "name": "Siedlce University Of Natural Sciences",
+              "country": "Poland",
+              "lat": 52.165,
+              "lng": 22.2714,
+              "department": "General"
+            },
+            {
+              "name": "Siedlce University Of Natural Sciences And Humanities",
+              "country": "Poland",
+              "lat": 52.165,
+              "lng": 22.2714,
+              "department": "General"
+            },
+            {
+              "name": "University Of Szczecin",
+              "country": "Poland",
+              "lat": 53.4325,
+              "lng": 14.5481,
+              "department": "General"
+            },
+            {
+              "name": "University Of Applied Sciences In Tarnow",
+              "country": "Poland",
+              "lat": 50.0125,
+              "lng": 20.9886,
+              "department": "General"
+            },
+            {
+              "name": "Nicolaus Copernicus University In Toruń",
+              "country": "Poland",
+              "lat": 53.0222,
+              "lng": 18.6111,
+              "department": "General"
+            },
+            {
+              "name": "University Of Warsaw",
+              "country": "Poland",
+              "lat": 52.23,
+              "lng": 21.0111,
+              "department": "General"
+            },
+            {
+              "name": "Warsaw University Of Technology",
+              "country": "Poland",
+              "lat": 52.23,
+              "lng": 21.0111,
+              "department": "General"
+            },
+            {
+              "name": "University Of Wrocław",
+              "country": "Poland",
+              "lat": 51.11,
+              "lng": 17.0325,
+              "department": "General"
+            },
+            {
+              "name": "University Of Alba Iulia",
+              "country": "Romania",
+              "lat": 46.0669,
+              "lng": 23.57,
+              "department": "General"
+            },
+            {
+              "name": "University Of Bucharest",
+              "country": "Romania",
+              "lat": 44.4325,
+              "lng": 26.1039,
+              "department": "General"
+            },
+            {
+              "name": "Ovidius University Of Constanta",
+              "country": "Romania",
+              "lat": 44.1667,
+              "lng": 28.6333,
+              "department": "General"
+            },
+            {
+              "name": "Universitatea Din Craiova",
+              "country": "Romania",
+              "lat": 44.3333,
+              "lng": 23.8167,
+              "department": "General"
+            }
+          ]
+        },
+        {
+          "name": "Medicine",
+          "partners": [
+            {
+              "name": "Medizinische Universitat Graz",
+              "country": "Austria",
+              "lat": 47.0708,
+              "lng": 15.4386,
+              "department": "Medicine"
+            },
+            {
+              "name": "University Of Medicine -Pleven",
+              "country": "Bulgaria",
+              "lat": 43.4167,
+              "lng": 24.6167,
+              "department": "Medicine"
+            },
+            {
+              "name": "Medical University Sofia",
+              "country": "Bulgaria",
+              "lat": 42.6979,
+              "lng": 23.3217,
+              "department": "Medicine"
+            },
+            {
+              "name": "Medizinische Hochschule Hannover",
+              "country": "Germany",
+              "lat": 52.3667,
+              "lng": 9.7167,
+              "department": "Medicine"
+            },
+            {
+              "name": "Semmelweis Egyetem",
+              "country": "Hungary",
+              "lat": 47.4983,
+              "lng": 19.0408,
+              "department": "Medicine"
+            },
+            {
+              "name": "Royal College Of Surgeons In Ireland",
+              "country": "Ireland",
+              "lat": 53.3497,
+              "lng": -6.2603,
+              "department": "Medicine"
+            },
+            {
+              "name": "Medical University Of Warsaw",
+              "country": "Poland",
+              "lat": 52.23,
+              "lng": 21.0111,
+              "department": "Medicine"
+            },
+            {
+              "name": "Universitatea De Medicina Si Farmacie Carol Davila",
+              "country": "Romania",
+              "lat": 44.4325,
+              "lng": 26.1039,
+              "department": "Medicine"
+            }
+          ]
+        },
+        {
+          "name": "Education",
+          "partners": [
+            {
+              "name": "Kirchliche Paedagogische Hochschule Wien",
+              "country": "Austria",
+              "lat": 48.2083,
+              "lng": 16.3725,
+              "department": "Education"
+            }
+          ]
+        },
+        {
+          "name": "Arts",
+          "partners": [
+            {
+              "name": "MUK - Music And Arts Private University",
+              "country": "Austria",
+              "lat": 48.2083,
+              "lng": 16.3725,
+              "department": "Music and Arts"
+            },
+            {
+              "name": "Folkwang University Of The Arts",
+              "country": "Germany",
+              "lat": 51.4508,
+              "lng": 7.0131,
+              "department": "Arts"
+            },
+            {
+              "name": "Accademia Di Belle Arti L'aquila",
+              "country": "Italy",
+              "lat": 42.354,
+              "lng": 13.392,
+              "department": "Fine Arts"
+            },
+            {
+              "name": "Accademia Della Moda",
+              "country": "Italy",
+              "lat": 40.8358,
+              "lng": 14.2486,
+              "department": "Fashion"
+            },
+            {
+              "name": "Accademia Nazionale Di Danza",
+              "country": "Italy",
+              "lat": 41.8931,
+              "lng": 12.4828,
+              "department": "Dance"
+            },
+            {
+              "name": "Latvian Academy Of Culture",
+              "country": "Latvia",
+              "lat": 56.9475,
+              "lng": 24.1069,
+              "department": "Culture and Arts"
+            }
+          ]
+        },
+        {
+          "name": "Music",
+          "partners": [
+            {
+              "name": "Conservatoire Royal De Bruxelles",
+              "country": "Belgium",
+              "lat": 50.8467,
+              "lng": 4.3525,
+              "department": "Music"
+            },
+            {
+              "name": "National Academy Of Music Prof. Pancho Vladigerov",
+              "country": "Bulgaria",
+              "lat": 42.6979,
+              "lng": 23.3217,
+              "department": "Music"
+            },
+            {
+              "name": "Hochschule Fur Musik Und Tanz Koln",
+              "country": "Germany",
+              "lat": 50.9364,
+              "lng": 6.9528,
+              "department": "Music"
+            },
+            {
+              "name": "Hochschule Für Katholische Kirchenmusik Regensburg",
+              "country": "Germany",
+              "lat": 49.0167,
+              "lng": 12.0833,
+              "department": "Music"
+            },
+            {
+              "name": "Escuela Superior De Canto",
+              "country": "Spain",
+              "lat": 40.4169,
+              "lng": -3.7033,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Superior De Música De Vigo",
+              "country": "Spain",
+              "lat": 42.2314,
+              "lng": -8.7124,
+              "department": "Music"
+            },
+            {
+              "name": "Estonian Academy Of Music And Theatre",
+              "country": "Estonia",
+              "lat": 59.4372,
+              "lng": 24.7453,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Di Musica A. Vivaldi",
+              "country": "Italy",
+              "lat": 44.9133,
+              "lng": 8.62,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Di Musica Luca Marenzio",
+              "country": "Italy",
+              "lat": 45.5389,
+              "lng": 10.2203,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Statale Di Musica L. Perosi",
+              "country": "Italy",
+              "lat": 41.561,
+              "lng": 14.6684,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Di Como",
+              "country": "Italy",
+              "lat": 45.8103,
+              "lng": 9.0861,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Di Musica Lucio Campiani",
+              "country": "Italy",
+              "lat": 45.1564,
+              "lng": 10.7911,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Di Musica Arrigo Boito",
+              "country": "Italy",
+              "lat": 44.8015,
+              "lng": 10.328,
+              "department": "Music"
+            },
+            {
+              "name": "Istituto Superiore Di Studi Musicali G. Braga",
+              "country": "Italy",
+              "lat": 45.1853,
+              "lng": 9.155,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Di Musica Giuseppe Martucci",
+              "country": "Italy",
+              "lat": 40.6806,
+              "lng": 14.7594,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Di Musica Giuseppe Tartini",
+              "country": "Italy",
+              "lat": 45.6503,
+              "lng": 13.7703,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Di Musica Benedetto Marcello",
+              "country": "Italy",
+              "lat": 45.4397,
+              "lng": 12.3319,
+              "department": "Music"
+            },
+            {
+              "name": "Conservatorio Di Musica F.Torrefranca",
+              "country": "Italy",
+              "lat": 38.6753,
+              "lng": 16.0959,
+              "department": "Music"
+            },
+            {
+              "name": "Royal Irish Academy Of Music",
+              "country": "Ireland",
+              "lat": 53.3497,
+              "lng": -6.2603,
+              "department": "Music"
+            }
+          ]
+        },
+        {
+          "name": "Economics",
+          "partners": [
+            {
+              "name": "Berlin School Of Economics And Law",
+              "country": "Germany",
+              "lat": 52.52,
+              "lng": 13.405,
+              "department": "Economics and Law"
+            },
+            {
+              "name": "University Of Economics – Varna",
+              "country": "Bulgaria",
+              "lat": 43.2114,
+              "lng": 27.9111,
+              "department": "Economics"
+            },
+            {
+              "name": "University Of Economics In Katowice",
+              "country": "Poland",
+              "lat": 50.2625,
+              "lng": 19.0217,
+              "department": "Economics"
+            },
+            {
+              "name": "The Academy Of Economic Studies Of Bucharest",
+              "country": "Romania",
+              "lat": 44.4325,
+              "lng": 26.1039,
+              "department": "Economics"
+            }
+          ]
+        },
+        {
+          "name": "Languages",
+          "partners": [
+            {
+              "name": "Institut National Des Langues Et Civilisations Orientales",
+              "country": "France",
+              "lat": 48.8567,
+              "lng": 2.3522,
+              "department": "Languages"
+            }
+          ]
+        },
+        {
+          "name": "Food Technology",
+          "partners": [
+            {
+              "name": "University Of Food Technologies",
+              "country": "Bulgaria",
+              "lat": 42.1434,
+              "lng": 24.751,
+              "department": "Food Technology"
+            }
+          ]
+        },
+        {
+          "name": "Maritime",
+          "partners": [
+            {
+              "name": "Nikola Vaptsarov Naval Academy",
+              "country": "Bulgaria",
+              "lat": 43.2114,
+              "lng": 27.9111,
+              "department": "Naval Academy"
+            }
+          ]
+        },
+        {
+          "name": "Social Work",
+          "partners": [
+            {
+              "name": "Afris Eseis",
+              "country": "France",
+              "lat": 48.6936,
+              "lng": 6.1846,
+              "department": "Social Work"
+            }
+          ]
+        },
+        {
+          "name": "International Relations",
+          "partners": [
+            {
+              "name": "Institut Libre D'étude Des Relations Internationales",
+              "country": "France",
+              "lat": 48.8567,
+              "lng": 2.3522,
+              "department": "International Relations"
+            }
+          ]
+        },
+        {
+          "name": "Business",
+          "partners": [
+            {
+              "name": "Groupe Ecole Superieure Commerce Rennes",
+              "country": "France",
+              "lat": 48.1147,
+              "lng": -1.6794,
+              "department": "Business"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "atauni",
+      "name": "Atatürk University",
+      "city": "Erzurum",
+      "lat": 39.9086,
+      "lng": 41.2769,
+      "departments": [
+        {
+          "name": "Sports Science",
+          "partners": [
+            {
+              "name": "AWF-Warsaw",
+              "country": "Poland",
+              "lat": 52.23,
+              "lng": 21.0111,
+              "department": "Physical Education"
+            },
+            {
+              "name": "Universita degli studi di Roma Foro Italico",
+              "country": "Italy",
+              "lat": 41.8931,
+              "lng": 12.4828,
+              "department": "Sports Science"
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "partners": [
+            {
+              "name": "Universitatea Ovidius Din Constanta",
+              "country": "Romania",
+              "lat": 44.1667,
+              "lng": 28.6333,
+              "department": "General"
+            },
+            {
+              "name": "University Dunarea de Jos Of Galati",
+              "country": "Romania",
+              "lat": 45.4233,
+              "lng": 28.0425,
+              "department": "General"
+            },
+            {
+              "name": "Philipps Universitat Marburg",
+              "country": "Germany",
+              "lat": 50.81,
+              "lng": 8.7708,
+              "department": "General"
+            },
+            {
+              "name": "University of Cagliari",
+              "country": "Italy",
+              "lat": 39.2167,
+              "lng": 9.1167,
+              "department": "General"
+            },
+            {
+              "name": "University of Porto",
+              "country": "Portugal",
+              "lat": 41.1495,
+              "lng": -8.6108,
+              "department": "General"
+            },
+            {
+              "name": "Adam Mickiewicz University in Poznan",
+              "country": "Poland",
+              "lat": 52.4083,
+              "lng": 16.9336,
+              "department": "General"
+            },
+            {
+              "name": "Aristotle University of Thessaloniki",
+              "country": "Greece",
+              "lat": 40.6403,
+              "lng": 22.9356,
+              "department": "General"
+            },
+            {
+              "name": "Christian Albrechts Universitat zu Kiel",
+              "country": "Germany",
+              "lat": 54.3233,
+              "lng": 10.1394,
+              "department": "General"
+            },
+            {
+              "name": "Eötvös Loránd University",
+              "country": "Hungary",
+              "lat": 47.4983,
+              "lng": 19.0408,
+              "department": "General"
+            },
+            {
+              "name": "Friedrich Schiller University of Jena",
+              "country": "Germany",
+              "lat": 50.9272,
+              "lng": 11.5861,
+              "department": "General"
+            },
+            {
+              "name": "Kazimierz Wielki University",
+              "country": "Poland",
+              "lat": 53.1219,
+              "lng": 18.0003,
+              "department": "General"
+            },
+            {
+              "name": "Matej Bel University",
+              "country": "Slovakia",
+              "lat": 48.7353,
+              "lng": 19.1453,
+              "department": "General"
+            },
+            {
+              "name": "Nicolaus Copernicus University in Torun",
+              "country": "Poland",
+              "lat": 53.0222,
+              "lng": 18.6111,
+              "department": "General"
+            },
+            {
+              "name": "Konstantin Preslavsky University of Shumen",
+              "country": "Bulgaria",
+              "lat": 43.2746,
+              "lng": 26.9349,
+              "department": "General"
+            },
+            {
+              "name": "Universidad De Almeria",
+              "country": "Spain",
+              "lat": 36.8417,
+              "lng": -2.4639,
+              "department": "General"
+            },
+            {
+              "name": "Universidad de Santiago de Compostela",
+              "country": "Spain",
+              "lat": 42.8778,
+              "lng": -8.5444,
+              "department": "General"
+            },
+            {
+              "name": "Universidad De Valladolid",
+              "country": "Spain",
+              "lat": 41.6528,
+              "lng": -4.7236,
+              "department": "General"
+            },
+            {
+              "name": "Universidade de Lisboa",
+              "country": "Portugal",
+              "lat": 38.7122,
+              "lng": -9.134,
+              "department": "General"
+            },
+            {
+              "name": "Universidade do Minho",
+              "country": "Portugal",
+              "lat": 41.5503,
+              "lng": -8.42,
+              "department": "General"
+            },
+            {
+              "name": "Universitatea din Bucuresti",
+              "country": "Romania",
+              "lat": 44.4325,
+              "lng": 26.1039,
+              "department": "General"
+            },
+            {
+              "name": "University of Bacau",
+              "country": "Romania",
+              "lat": 46.5833,
+              "lng": 26.9167,
+              "department": "General"
+            },
+            {
+              "name": "University of Latvia",
+              "country": "Latvia",
+              "lat": 56.9475,
+              "lng": 24.1069,
+              "department": "General"
+            },
+            {
+              "name": "University of Pecs",
+              "country": "Hungary",
+              "lat": 46.0708,
+              "lng": 18.2331,
+              "department": "General"
+            },
+            {
+              "name": "University of Rzeszow",
+              "country": "Poland",
+              "lat": 50.0333,
+              "lng": 22,
+              "department": "General"
+            },
+            {
+              "name": "Universitat Bremen",
+              "country": "Germany",
+              "lat": 53.0758,
+              "lng": 8.8072,
+              "department": "General"
+            },
+            {
+              "name": "University of Hamburg",
+              "country": "Germany",
+              "lat": 53.55,
+              "lng": 10,
+              "department": "General"
+            },
+            {
+              "name": "Higher Vocational State School Wloclawek",
+              "country": "Poland",
+              "lat": 52.6592,
+              "lng": 19.0681,
+              "department": "General"
+            },
+            {
+              "name": "University of Cologne",
+              "country": "Germany",
+              "lat": 50.9364,
+              "lng": 6.9528,
+              "department": "General"
+            },
+            {
+              "name": "University of Ljubljana",
+              "country": "Slovenia",
+              "lat": 46.0514,
+              "lng": 14.5061,
+              "department": "General"
+            },
+            {
+              "name": "Stefan Cel Mare University of Suceava",
+              "country": "Romania",
+              "lat": 47.6514,
+              "lng": 26.2556,
+              "department": "General"
+            },
+            {
+              "name": "Szczecin Higher School Collegium Balticum",
+              "country": "Poland",
+              "lat": 53.4325,
+              "lng": 14.5481,
+              "department": "General"
+            },
+            {
+              "name": "Universita degli studi Della Tuscia",
+              "country": "Italy",
+              "lat": 42.4186,
+              "lng": 12.1042,
+              "department": "General"
+            },
+            {
+              "name": "St.Cyril and St.Methodius University of Veliko Turnovo",
+              "country": "Bulgaria",
+              "lat": 43.0787,
+              "lng": 25.6283,
+              "department": "General"
+            },
+            {
+              "name": "Vilniaus Universitetas",
+              "country": "Lithuania",
+              "lat": 54.6872,
+              "lng": 25.28,
+              "department": "General"
+            },
+            {
+              "name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+              "country": "Germany",
+              "lat": 49.5833,
+              "lng": 11.0167,
+              "department": "General"
+            },
+            {
+              "name": "University of Groningen",
+              "country": "Holland",
+              "lat": 53.2167,
+              "lng": 6.5667,
+              "department": "General"
+            },
+            {
+              "name": "La Sapienza University of Rome",
+              "country": "Italy",
+              "lat": 41.8931,
+              "lng": 12.4828,
+              "department": "General"
+            },
+            {
+              "name": "Mendel University in Brno",
+              "country": "Czechia",
+              "lat": 49.1925,
+              "lng": 16.6083,
+              "department": "General"
+            },
+            {
+              "name": "Tomas Bata University in Zlin",
+              "country": "Czechia",
+              "lat": 49.2331,
+              "lng": 17.6669,
+              "department": "General"
+            },
+            {
+              "name": "Universidade De Averio",
+              "country": "Portugal",
+              "lat": 40.6389,
+              "lng": -8.6553,
+              "department": "General"
+            },
+            {
+              "name": "Universidade De Tras Os Montes e Alto Douro",
+              "country": "Portugal",
+              "lat": 41.2953,
+              "lng": -7.7461,
+              "department": "General"
+            },
+            {
+              "name": "Universidade Nova De Lisboa",
+              "country": "Portugal",
+              "lat": 38.7122,
+              "lng": -9.134,
+              "department": "General"
+            },
+            {
+              "name": "Universira Degli Studi di Firenze",
+              "country": "Italy",
+              "lat": 43.7714,
+              "lng": 11.2542,
+              "department": "General"
+            },
+            {
+              "name": "Universita Degli Studi Di Torino",
+              "country": "Italy",
+              "lat": 45.0792,
+              "lng": 7.6761,
+              "department": "General"
+            },
+            {
+              "name": "Universita Politecnica delle Marche",
+              "country": "Italy",
+              "lat": 43.6167,
+              "lng": 13.5167,
+              "department": "General"
+            },
+            {
+              "name": "Universitatea Transilvania Din Brasov",
+              "country": "Romania",
+              "lat": 45.6667,
+              "lng": 25.6167,
+              "department": "General"
+            },
+            {
+              "name": "University of Debrecen",
+              "country": "Hungary",
+              "lat": 47.53,
+              "lng": 21.6392,
+              "department": "General"
+            },
+            {
+              "name": "University of L'aquila",
+              "country": "Italy",
+              "lat": 42.354,
+              "lng": 13.392,
+              "department": "General"
+            },
+            {
+              "name": "University of Oradea",
+              "country": "Romania",
+              "lat": 47.0722,
+              "lng": 21.9211,
+              "department": "General"
+            },
+            {
+              "name": "University of Szeged",
+              "country": "Hungary",
+              "lat": 46.25,
+              "lng": 20.1667,
+              "department": "General"
+            },
+            {
+              "name": "University of Zielona Gora",
+              "country": "Poland",
+              "lat": 51.9333,
+              "lng": 15.5,
+              "department": "General"
+            },
+            {
+              "name": "UTRECHT UNIVERSITY",
+              "country": "Holland",
+              "lat": 52.0908,
+              "lng": 5.1217,
+              "department": "General"
+            },
+            {
+              "name": "University of Pitesti",
+              "country": "Romania",
+              "lat": 44.8606,
+              "lng": 24.8678,
+              "department": "General"
+            },
+            {
+              "name": "West University of Timisoara",
+              "country": "Romania",
+              "lat": 45.7597,
+              "lng": 21.23,
+              "department": "General"
+            },
+            {
+              "name": "Karkonosze College",
+              "country": "Poland",
+              "lat": 50.9033,
+              "lng": 15.7344,
+              "department": "General"
+            },
+            {
+              "name": "University of the Azores",
+              "country": "Portugal",
+              "lat": 37.74,
+              "lng": -25.67,
+              "department": "General"
+            },
+            {
+              "name": "\"1 Decembrie 1918\" University of Alba Iulia",
+              "country": "Romania",
+              "lat": 46.0669,
+              "lng": 23.57,
+              "department": "General"
+            },
+            {
+              "name": "Masaryk University",
+              "country": "Czechia",
+              "lat": 49.1925,
+              "lng": 16.6083,
+              "department": "General"
+            },
+            {
+              "name": "South-West University",
+              "country": "Bulgaria",
+              "lat": 42.0227,
+              "lng": 23.0975,
+              "department": "General"
+            },
+            {
+              "name": "University of Bialystok",
+              "country": "Poland",
+              "lat": 53.1353,
+              "lng": 23.1456,
+              "department": "General"
+            },
+            {
+              "name": "University of Szczecin",
+              "country": "Poland",
+              "lat": 53.4325,
+              "lng": 14.5481,
+              "department": "General"
+            },
+            {
+              "name": "Tomori Pal College",
+              "country": "Hungary",
+              "lat": 46.5333,
+              "lng": 18.9856,
+              "department": "General"
+            },
+            {
+              "name": "Universita Degli Studi di Perugia",
+              "country": "Italy",
+              "lat": 43.1121,
+              "lng": 12.3888,
+              "department": "General"
+            },
+            {
+              "name": "University of Opole",
+              "country": "Poland",
+              "lat": 50.6667,
+              "lng": 17.9333,
+              "department": "General"
+            },
+            {
+              "name": "University of Lodz",
+              "country": "Poland",
+              "lat": 51.7769,
+              "lng": 19.4547,
+              "department": "General"
+            },
+            {
+              "name": "Contantine the Philosopher University in Nitra",
+              "country": "Slovakia",
+              "lat": 48.3147,
+              "lng": 18.0875,
+              "department": "General"
+            },
+            {
+              "name": "Universidad de Castilla-La Mancha",
+              "country": "Spain",
+              "lat": 38.9833,
+              "lng": -3.9167,
+              "department": "General"
+            },
+            {
+              "name": "Vytautas Magnus University",
+              "country": "Lithuania",
+              "lat": 54.9,
+              "lng": 23.9333,
+              "department": "General"
+            },
+            {
+              "name": "Universita degli Studi di Sassari",
+              "country": "Italy",
+              "lat": 40.7267,
+              "lng": 8.5592,
+              "department": "General"
+            },
+            {
+              "name": "Cardinal Stefan Wyszynski University in Warsaw",
+              "country": "Poland",
+              "lat": 52.23,
+              "lng": 21.0111,
+              "department": "General"
+            }
+          ]
+        },
+        {
+          "name": "Science & Tech",
+          "partners": [
+            {
+              "name": "AGH University of Science and Technology",
+              "country": "Poland",
+              "lat": 50.0614,
+              "lng": 19.9372,
+              "department": "General"
+            }
+          ]
+        },
+        {
+          "name": "Economics",
+          "partners": [
+            {
+              "name": "Radom Academy of Economics",
+              "country": "Poland",
+              "lat": 51.4036,
+              "lng": 21.1567,
+              "department": "Economics"
+            },
+            {
+              "name": "Private College of Economic Studies",
+              "country": "Czechia",
+              "lat": 50.0875,
+              "lng": 14.4214,
+              "department": "Economics"
+            }
+          ]
+        },
+        {
+          "name": "Agriculture",
+          "partners": [
+            {
+              "name": "The Ion Ionescu de la Brad University",
+              "country": "Romania",
+              "lat": 47.1622,
+              "lng": 27.5889,
+              "department": "Agriculture and Veterinary"
+            },
+            {
+              "name": "Agricultural University of Athens",
+              "country": "Greece",
+              "lat": 37.9842,
+              "lng": 23.7281,
+              "department": "Agriculture"
+            },
+            {
+              "name": "Agrosup Dijon",
+              "country": "France",
+              "lat": 47.3167,
+              "lng": 5.0167,
+              "department": "Agriculture"
+            },
+            {
+              "name": "Universitatea de Ştiinte Agricole şi Medicina Veterinara Cluj Napoca",
+              "country": "Romania",
+              "lat": 46.7667,
+              "lng": 23.5833,
+              "department": "Agriculture"
+            },
+            {
+              "name": "University of Agriculture in Krakow",
+              "country": "Poland",
+              "lat": 50.0614,
+              "lng": 19.9372,
+              "department": "Agriculture"
+            },
+            {
+              "name": "Slovak University of Agriculture in Nitra",
+              "country": "Slovakia",
+              "lat": 48.3147,
+              "lng": 18.0875,
+              "department": "Agriculture"
+            }
+          ]
+        },
+        {
+          "name": "Technology",
+          "partners": [
+            {
+              "name": "Alexander Technological Educational Institute",
+              "country": "Greece",
+              "lat": 40.6403,
+              "lng": 22.9356,
+              "department": "Technology"
+            },
+            {
+              "name": "Lublin University of Technology",
+              "country": "Poland",
+              "lat": 51.25,
+              "lng": 22.5667,
+              "department": "Technology"
+            },
+            {
+              "name": "Politechnika Rzeszowska",
+              "country": "Poland",
+              "lat": 50.0333,
+              "lng": 22,
+              "department": "Technology"
+            },
+            {
+              "name": "Silesian University of Technology",
+              "country": "Poland",
+              "lat": 50.2833,
+              "lng": 18.6667,
+              "department": "Technology"
+            },
+            {
+              "name": "Slovak University of Technology",
+              "country": "Slovakia",
+              "lat": 48.1447,
+              "lng": 17.1128,
+              "department": "Technology"
+            },
+            {
+              "name": "West Pomeranian University of Technology-Szczecin",
+              "country": "Poland",
+              "lat": 53.4325,
+              "lng": 14.5481,
+              "department": "Technology"
+            },
+            {
+              "name": "Vilnius College of Technologies and Design",
+              "country": "Lithuania",
+              "lat": 54.6872,
+              "lng": 25.28,
+              "department": "Technology and Design"
+            }
+          ]
+        },
+        {
+          "name": "Business",
+          "partners": [
+            {
+              "name": "Business Academy and Higher Professional School",
+              "country": "Czechia",
+              "lat": 49.4717,
+              "lng": 17.9711,
+              "department": "Business"
+            },
+            {
+              "name": "College of Business and Hotel Management",
+              "country": "Czechia",
+              "lat": 49.1925,
+              "lng": 16.6083,
+              "department": "Business"
+            }
+          ]
+        },
+        {
+          "name": "Science",
+          "partners": [
+            {
+              "name": "Ecole Superieure de Chimie Physique Electronique de Lyon",
+              "country": "France",
+              "lat": 45.76,
+              "lng": 4.84,
+              "department": "Chemistry"
+            }
+          ]
+        },
+        {
+          "name": "Engineering",
+          "partners": [
+            {
+              "name": "Ecole Superieure d'Informatique Electronique et Automatique",
+              "country": "France",
+              "lat": 48.8567,
+              "lng": 2.3522,
+              "department": "Informatics"
+            }
+          ]
+        },
+        {
+          "name": "Applied Sciences",
+          "partners": [
+            {
+              "name": "University of Applied Sciences Würzburg-Schweinfurt",
+              "country": "Germany",
+              "lat": 50.05,
+              "lng": 10.2333,
+              "department": "Applied Sciences"
+            },
+            {
+              "name": "State University of Applied Sciences in Glogow",
+              "country": "Poland",
+              "lat": 51.6589,
+              "lng": 16.0803,
+              "department": "Applied Sciences"
+            },
+            {
+              "name": "Novia University of Applied Sciences",
+              "country": "Finland",
+              "lat": 63.1,
+              "lng": 21.6167,
+              "department": "Applied Sciences"
+            },
+            {
+              "name": "Seinajoki University of Applied Sciences",
+              "country": "Finland",
+              "lat": 62.7917,
+              "lng": 22.8417,
+              "department": "Applied Sciences"
+            },
+            {
+              "name": "Klaipeda State University of Applied Sciences",
+              "country": "Lithuania",
+              "lat": 55.7125,
+              "lng": 21.135,
+              "department": "Applied Sciences"
+            }
+          ]
+        },
+        {
+          "name": "Life Sciences",
+          "partners": [
+            {
+              "name": "Poznan University of Life Sciences",
+              "country": "Poland",
+              "lat": 52.4083,
+              "lng": 16.9336,
+              "department": "Life Sciences"
+            },
+            {
+              "name": "Warsaw University of Life Sciences",
+              "country": "Poland",
+              "lat": 52.23,
+              "lng": 21.0111,
+              "department": "Life Sciences"
+            },
+            {
+              "name": "Estonian University of Life Sciences",
+              "country": "Estonia",
+              "lat": 58.38,
+              "lng": 26.7225,
+              "department": "Life Sciences"
+            }
+          ]
+        },
+        {
+          "name": "Arts",
+          "partners": [
+            {
+              "name": "Academy of Fine Arts of Foggia",
+              "country": "Italy",
+              "lat": 41.4584,
+              "lng": 15.5519,
+              "department": "Fine Arts"
+            },
+            {
+              "name": "Accademia Belle Arti Reggio Calabria",
+              "country": "Italy",
+              "lat": 38.1144,
+              "lng": 15.65,
+              "department": "Fine Arts"
+            },
+            {
+              "name": "ESAD Escola Superior de Artes e Design",
+              "country": "Portugal",
+              "lat": 41.1856,
+              "lng": -8.6508,
+              "department": "Arts and Design"
+            },
+            {
+              "name": "Escuela De Arte De Oviedo",
+              "country": "Spain",
+              "lat": 43.36,
+              "lng": -5.845,
+              "department": "Fine Arts"
+            }
+          ]
+        },
+        {
+          "name": "Medicine",
+          "partners": [
+            {
+              "name": "Medical University of Silesia",
+              "country": "Poland",
+              "lat": 50.2625,
+              "lng": 19.0217,
+              "department": "Medicine"
+            },
+            {
+              "name": "University of Medicine and Pharmacy of Iasi",
+              "country": "Romania",
+              "lat": 47.1622,
+              "lng": 27.5889,
+              "department": "Medicine"
+            }
+          ]
+        },
+        {
+          "name": "Management",
+          "partners": [
+            {
+              "name": "Information Systems Management Institute",
+              "country": "Latvia",
+              "lat": 56.9475,
+              "lng": 24.1069,
+              "department": "Management"
+            }
+          ]
+        },
+        {
+          "name": "Chemical Tech",
+          "partners": [
+            {
+              "name": "University of Chemical Technology and Metallurgy",
+              "country": "Bulgaria",
+              "lat": 42.6979,
+              "lng": 23.3217,
+              "department": "Chemical Technology"
+            }
+          ]
+        },
+        {
+          "name": "Finance",
+          "partners": [
+            {
+              "name": "University of Finance and Management in Bialystok",
+              "country": "Poland",
+              "lat": 53.1353,
+              "lng": 23.1456,
+              "department": "Finance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "firat",
+      "name": "Fırat University",
+      "city": "Elazığ",
+      "lat": 38.6744,
+      "lng": 39.2228,
+      "departments": [
+        {
+          "name": "Teaching",
+          "partners": [
+            {
+              "name": "Universitatea Dimitrie Cantemir",
+              "country": "Romania",
+              "lat": 44.4325,
+              "lng": 26.1039,
+              "department": "Teacher Training"
+            },
+            {
+              "name": "Alcide De Gasperi University of Euroregional Economy",
+              "country": "Poland",
+              "lat": 52.1356,
+              "lng": 21.2369,
+              "department": "Teacher Training"
+            },
+            {
+              "name": "Universita degli Studi G. d'Annunzio Chieti e Pescara",
+              "country": "Italy",
+              "lat": 42.3511,
+              "lng": 14.1674,
+              "department": "Teacher Training"
+            },
+            {
+              "name": "Polytechnic Institute of Guarda",
+              "country": "Portugal",
+              "lat": 40.5364,
+              "lng": -7.2683,
+              "department": "Teacher Training"
+            },
+            {
+              "name": "Stefan cel Mare University of Suceava",
+              "country": "Romania",
+              "lat": 47.6514,
+              "lng": 26.2556,
+              "department": "Teacher Training"
+            },
+            {
+              "name": "Universidad de Granada",
+              "country": "Spain",
+              "lat": 37.1781,
+              "lng": -3.6008,
+              "department": "Teacher Training"
+            },
+            {
+              "name": "Klaipeda State University of Applied Sciences",
+              "country": "Lithuania",
+              "lat": 55.7125,
+              "lng": 21.135,
+              "department": "Teacher Training"
+            },
+            {
+              "name": "Malopolska School of Economics in Tarnow",
+              "country": "Poland",
+              "lat": 50.0125,
+              "lng": 20.9886,
+              "department": "Teacher Training"
+            }
+          ]
+        },
+        {
+          "name": "Education",
+          "partners": [
+            {
+              "name": "University of Ostrava",
+              "country": "Czechia",
+              "lat": 49.8356,
+              "lng": 18.2925,
+              "department": "Primary Education"
+            },
+            {
+              "name": "University of Pannonia",
+              "country": "Hungary",
+              "lat": 47.1,
+              "lng": 17.9167,
+              "department": "Primary Education"
+            },
+            {
+              "name": "Radom Academy of Economics",
+              "country": "Poland",
+              "lat": 51.4036,
+              "lng": 21.1567,
+              "department": "Primary Education"
+            },
+            {
+              "name": "1 Decembrie 1918 University",
+              "country": "Romania",
+              "lat": 46.0669,
+              "lng": 23.57,
+              "department": "Primary Education"
+            },
+            {
+              "name": "Panevezys University of Applied Sciences",
+              "country": "Lithuania",
+              "lat": 55.725,
+              "lng": 24.3639,
+              "department": "Education"
+            },
+            {
+              "name": "Universidade de Evora",
+              "country": "Portugal",
+              "lat": 38.5667,
+              "lng": -7.9,
+              "department": "Education"
+            },
+            {
+              "name": "Vytautas Magnus University",
+              "country": "Lithuania",
+              "lat": 54.9,
+              "lng": 23.9333,
+              "department": "Education Sciences"
+            },
+            {
+              "name": "University of the Azores",
+              "country": "Portugal",
+              "lat": 37.74,
+              "lng": -25.67,
+              "department": "Education Sciences"
+            },
+            {
+              "name": "University of Minho",
+              "country": "Portugal",
+              "lat": 41.5503,
+              "lng": -8.42,
+              "department": "Education Sciences"
+            },
+            {
+              "name": "Politehnica University of Bucharest",
+              "country": "Romania",
+              "lat": 44.4325,
+              "lng": 26.1039,
+              "department": "Education Sciences"
+            },
+            {
+              "name": "Aurel Vlaicu University of Arad",
+              "country": "Romania",
+              "lat": 46.175,
+              "lng": 21.3125,
+              "department": "Education Sciences"
+            }
+          ]
+        },
+        {
+          "name": "Fine Arts",
+          "partners": [
+            {
+              "name": "University of West Attica",
+              "country": "Greece",
+              "lat": 37.992,
+              "lng": 23.678,
+              "department": "Fine Arts"
+            },
+            {
+              "name": "University of Rzeszow",
+              "country": "Poland",
+              "lat": 50.0333,
+              "lng": 22,
+              "department": "Fine Arts"
+            }
+          ]
+        },
+        {
+          "name": "Science",
+          "partners": [
+            {
+              "name": "Jan Evangelista Purkyne University in Usti nad Labem",
+              "country": "Czechia",
+              "lat": 50.6583,
+              "lng": 14.0417,
+              "department": "Chemistry"
+            },
+            {
+              "name": "Wroclaw University of Science and Technology",
+              "country": "Poland",
+              "lat": 51.11,
+              "lng": 17.0325,
+              "department": "Chemistry"
+            },
+            {
+              "name": "Alexandru Ioan Cuza University",
+              "country": "Romania",
+              "lat": 47.1622,
+              "lng": 27.5889,
+              "department": "Chemistry"
+            },
+            {
+              "name": "University of Salamanca",
+              "country": "Spain",
+              "lat": 40.965,
+              "lng": -5.6642,
+              "department": "Chemistry"
+            },
+            {
+              "name": "Universidad de Oviedo",
+              "country": "Spain",
+              "lat": 43.36,
+              "lng": -5.845,
+              "department": "Chemistry"
+            },
+            {
+              "name": "University of Oulu",
+              "country": "Finland",
+              "lat": 65.0142,
+              "lng": 25.4719,
+              "department": "Biochemistry"
+            },
+            {
+              "name": "Nicolaus Copernicus University",
+              "country": "Poland",
+              "lat": 53.0222,
+              "lng": 18.6111,
+              "department": "Physics"
+            },
+            {
+              "name": "University of Rijeka",
+              "country": "Croatia",
+              "lat": 45.3333,
+              "lng": 14.4333,
+              "department": "Mathematics"
+            },
+            {
+              "name": "Czestochowa University of Technology",
+              "country": "Poland",
+              "lat": 50.8,
+              "lng": 19.1167,
+              "department": "Mathematics"
+            },
+            {
+              "name": "Stockholm University",
+              "country": "Sweden",
+              "lat": 59.3275,
+              "lng": 18.0547,
+              "department": "Mathematics"
+            },
+            {
+              "name": "Universita degli Studi di Milano-Bicocca",
+              "country": "Italy",
+              "lat": 45.4669,
+              "lng": 9.19,
+              "department": "Mathematics"
+            }
+          ]
+        },
+        {
+          "name": "Humanities",
+          "partners": [
+            {
+              "name": "University of Oradea",
+              "country": "Romania",
+              "lat": 47.0722,
+              "lng": 21.9211,
+              "department": "Geography"
+            },
+            {
+              "name": "George Emil Palade University",
+              "country": "Romania",
+              "lat": 46.5456,
+              "lng": 24.5625,
+              "department": "History"
+            },
+            {
+              "name": "University of Zadar",
+              "country": "Croatia",
+              "lat": 44.117,
+              "lng": 15.2355,
+              "department": "Foreign Languages"
+            },
+            {
+              "name": "University of South Bohemia",
+              "country": "Czechia",
+              "lat": 48.9747,
+              "lng": 14.4747,
+              "department": "Foreign Languages"
+            },
+            {
+              "name": "Koszalin University of Technology",
+              "country": "Poland",
+              "lat": 54.2,
+              "lng": 16.1833,
+              "department": "Foreign Languages"
+            },
+            {
+              "name": "University of Lodz",
+              "country": "Poland",
+              "lat": 51.7769,
+              "lng": 19.4547,
+              "department": "Foreign Languages"
+            },
+            {
+              "name": "Adam Mickiewicz University",
+              "country": "Poland",
+              "lat": 52.4083,
+              "lng": 16.9336,
+              "department": "Foreign Languages"
+            },
+            {
+              "name": "University of Beira Interior",
+              "country": "Portugal",
+              "lat": 40.2833,
+              "lng": -7.5,
+              "department": "Foreign Languages"
+            },
+            {
+              "name": "Transilvania University of Brasov",
+              "country": "Romania",
+              "lat": 45.6667,
+              "lng": 25.6167,
+              "department": "Foreign Languages"
+            },
+            {
+              "name": "University of Bucharest",
+              "country": "Romania",
+              "lat": 44.4325,
+              "lng": 26.1039,
+              "department": "Foreign Languages"
+            },
+            {
+              "name": "Otto von Guericke University Magdeburg",
+              "country": "Germany",
+              "lat": 52.1317,
+              "lng": 11.6392,
+              "department": "Foreign Languages"
+            },
+            {
+              "name": "University of Saints Cyril and Methodius in Trnava",
+              "country": "Slovakia",
+              "lat": 48.3777,
+              "lng": 17.5862,
+              "department": "Foreign Languages"
+            },
+            {
+              "name": "Ovidius University of Constanta",
+              "country": "Romania",
+              "lat": 44.1667,
+              "lng": 28.6333,
+              "department": "Foreign Languages"
+            },
+            {
+              "name": "University of Maribor",
+              "country": "Slovenia",
+              "lat": 46.55,
+              "lng": 15.6333,
+              "department": "Foreign Languages"
+            },
+            {
+              "name": "Daugavpils University",
+              "country": "Latvia",
+              "lat": 55.8714,
+              "lng": 26.5161,
+              "department": "Languages"
+            }
+          ]
+        },
+        {
+          "name": "Economics",
+          "partners": [
+            {
+              "name": "Agricultural University - Plovdiv",
+              "country": "Bulgaria",
+              "lat": 42.1434,
+              "lng": 24.751,
+              "department": "Economics"
+            },
+            {
+              "name": "Universita degli Studi di Urbino Carlo Bo",
+              "country": "Italy",
+              "lat": 43.7252,
+              "lng": 12.6372,
+              "department": "Economics"
+            },
+            {
+              "name": "State University of Applied Sciences in Elblag",
+              "country": "Poland",
+              "lat": 54.1667,
+              "lng": 19.4,
+              "department": "Economics"
+            }
+          ]
+        },
+        {
+          "name": "Business",
+          "partners": [
+            {
+              "name": "Haute Ecole de la Province de Liege",
+              "country": "Belgium",
+              "lat": 50.6397,
+              "lng": 5.5706,
+              "department": "Business Administration"
+            },
+            {
+              "name": "Universitatea Romano-Americana",
+              "country": "Romania",
+              "lat": 44.4325,
+              "lng": 26.1039,
+              "department": "Business Administration"
+            },
+            {
+              "name": "University of Novo Mesto",
+              "country": "Slovenia",
+              "lat": 45.8,
+              "lng": 15.1667,
+              "department": "Business Administration"
+            }
+          ]
+        },
+        {
+          "name": "Engineering",
+          "partners": [
+            {
+              "name": "Riga Technical University",
+              "country": "Latvia",
+              "lat": 56.9475,
+              "lng": 24.1069,
+              "department": "Computer Engineering"
+            },
+            {
+              "name": "Bialystok University of Technology",
+              "country": "Poland",
+              "lat": 53.1353,
+              "lng": 23.1456,
+              "department": "Computer Engineering"
+            },
+            {
+              "name": "Lublin University of Technology",
+              "country": "Poland",
+              "lat": 51.25,
+              "lng": 22.5667,
+              "department": "Computer Engineering"
+            },
+            {
+              "name": "Politechnika Bydgoska",
+              "country": "Poland",
+              "lat": 53.1219,
+              "lng": 18.0003,
+              "department": "Computer Engineering"
+            },
+            {
+              "name": "Polytechnic Institute of Cavado and Ave",
+              "country": "Portugal",
+              "lat": 41.5333,
+              "lng": -8.6167,
+              "department": "Computer Engineering"
+            },
+            {
+              "name": "University of Campania Luigi Vanvitelli",
+              "country": "Italy",
+              "lat": 41.0667,
+              "lng": 14.3333,
+              "department": "Software Engineering"
+            },
+            {
+              "name": "University of Bielsko-Biala",
+              "country": "Poland",
+              "lat": 49.8225,
+              "lng": 19.0444,
+              "department": "Software Engineering"
+            },
+            {
+              "name": "Universitatea Dunarea de Jos din Galati",
+              "country": "Romania",
+              "lat": 45.4233,
+              "lng": 28.0425,
+              "department": "Bioengineering"
+            },
+            {
+              "name": "Gdansk University of Technology",
+              "country": "Poland",
+              "lat": 54.3475,
+              "lng": 18.6453,
+              "department": "Environmental Engineering"
+            },
+            {
+              "name": "Universitatea Babes-Bolyai",
+              "country": "Romania",
+              "lat": 46.7667,
+              "lng": 23.5833,
+              "department": "Environmental Engineering"
+            },
+            {
+              "name": "Vilnius College of Technologies and Design",
+              "country": "Lithuania",
+              "lat": 54.6872,
+              "lng": 25.28,
+              "department": "Electrical Engineering"
+            },
+            {
+              "name": "Technical University of Cluj-Napoca",
+              "country": "Romania",
+              "lat": 46.7667,
+              "lng": 23.5833,
+              "department": "Civil Engineering"
+            },
+            {
+              "name": "Cracow University of Technology",
+              "country": "Poland",
+              "lat": 50.0614,
+              "lng": 19.9372,
+              "department": "Chemical Engineering"
+            },
+            {
+              "name": "West Pomeranian University of Technology",
+              "country": "Poland",
+              "lat": 53.4325,
+              "lng": 14.5481,
+              "department": "Mechanical Engineering"
+            },
+            {
+              "name": "Universidad de Castilla-La Mancha",
+              "country": "Spain",
+              "lat": 38.9833,
+              "lng": -3.9167,
+              "department": "Mechanical Engineering"
+            },
+            {
+              "name": "Technical University of Liberec",
+              "country": "Czechia",
+              "lat": 50.7667,
+              "lng": 15.0667,
+              "department": "Mechanical Engineering"
+            },
+            {
+              "name": "VSB - Technical University of Ostrava",
+              "country": "Czechia",
+              "lat": 49.8356,
+              "lng": 18.2925,
+              "department": "Metallurgy"
+            }
+          ]
+        },
+        {
+          "name": "Technology",
+          "partners": [
+            {
+              "name": "National Technical University of Athens",
+              "country": "Greece",
+              "lat": 37.9842,
+              "lng": 23.7281,
+              "department": "Electrical Engineering"
+            },
+            {
+              "name": "Poznan University of Technology",
+              "country": "Poland",
+              "lat": 52.4083,
+              "lng": 16.9336,
+              "department": "Electrical Engineering"
+            },
+            {
+              "name": "ISEP - Instituto Superior de Engenharia do Porto",
+              "country": "Portugal",
+              "lat": 41.1495,
+              "lng": -8.6108,
+              "department": "Electrical Engineering"
+            },
+            {
+              "name": "Gheorghe Asachi Technical University of Iasi",
+              "country": "Romania",
+              "lat": 47.1622,
+              "lng": 27.5889,
+              "department": "Energy Systems"
+            },
+            {
+              "name": "Paris Nanterre University",
+              "country": "France",
+              "lat": 48.8988,
+              "lng": 2.1969,
+              "department": "Thermal Energy"
+            },
+            {
+              "name": "Universidade de Coimbra",
+              "country": "Portugal",
+              "lat": 40.2111,
+              "lng": -8.4289,
+              "department": "Mechatronics"
+            },
+            {
+              "name": "University of Applied Sciences Zwickau",
+              "country": "Germany",
+              "lat": 50.7167,
+              "lng": 12.5,
+              "department": "Automotive Engineering"
+            },
+            {
+              "name": "TH Köln - University of Applied Sciences",
+              "country": "Germany",
+              "lat": 50.9364,
+              "lng": 6.9528,
+              "department": "Automotive Engineering"
+            },
+            {
+              "name": "Katowice School of Technology",
+              "country": "Poland",
+              "lat": 50.2625,
+              "lng": 19.0217,
+              "department": "Software Engineering"
+            }
+          ]
+        },
+        {
+          "name": "Architecture",
+          "partners": [
+            {
+              "name": "Universita degli Studi di Sassari",
+              "country": "Italy",
+              "lat": 40.7267,
+              "lng": 8.5592,
+              "department": "Architecture"
+            }
+          ]
+        },
+        {
+          "name": "Fisheries",
+          "partners": [
+            {
+              "name": "University of Split",
+              "country": "Croatia",
+              "lat": 43.51,
+              "lng": 16.44,
+              "department": "Fisheries"
+            },
+            {
+              "name": "Agricultural University of Athens",
+              "country": "Greece",
+              "lat": 37.9842,
+              "lng": 23.7281,
+              "department": "Fisheries"
+            }
+          ]
+        },
+        {
+          "name": "Pharmacy",
+          "partners": [
+            {
+              "name": "University of Veterinary Medicine and Pharmacy in Kosice",
+              "country": "Slovakia",
+              "lat": 48.7167,
+              "lng": 21.25,
+              "department": "Pharmacy"
+            },
+            {
+              "name": "Lusofona University",
+              "country": "Portugal",
+              "lat": 38.7122,
+              "lng": -9.134,
+              "department": "Pharmacy"
+            },
+            {
+              "name": "University of Catania",
+              "country": "Italy",
+              "lat": 37.5027,
+              "lng": 15.0873,
+              "department": "Pharmacy"
+            },
+            {
+              "name": "Medical University of Warsaw",
+              "country": "Poland",
+              "lat": 52.23,
+              "lng": 21.0111,
+              "department": "Pharmacy"
+            }
+          ]
+        },
+        {
+          "name": "Veterinary",
+          "partners": [
+            {
+              "name": "University of Liege",
+              "country": "Belgium",
+              "lat": 50.6397,
+              "lng": 5.5706,
+              "department": "Veterinary Medicine"
+            },
+            {
+              "name": "University of Life Sciences in Lublin",
+              "country": "Poland",
+              "lat": 51.25,
+              "lng": 22.5667,
+              "department": "Veterinary Medicine"
+            },
+            {
+              "name": "Lithuanian University of Health Sciences",
+              "country": "Lithuania",
+              "lat": 54.9,
+              "lng": 23.9333,
+              "department": "Veterinary Medicine"
+            }
+          ]
+        },
+        {
+          "name": "Sport Sciences",
+          "partners": [
+            {
+              "name": "University of Foggia",
+              "country": "Italy",
+              "lat": 41.4584,
+              "lng": 15.5519,
+              "department": "Sports"
+            }
+          ]
+        },
+        {
+          "name": "Vocational",
+          "partners": [
+            {
+              "name": "Alberta College",
+              "country": "Latvia",
+              "lat": 56.9475,
+              "lng": 24.1069,
+              "department": "Social Sciences"
+            }
+          ]
+        },
+        {
+          "name": "Aviation",
+          "partners": [
+            {
+              "name": "Universidad de Vigo",
+              "country": "Spain",
+              "lat": 42.2314,
+              "lng": -8.7124,
+              "department": "Aviation"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

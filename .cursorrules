@@ -1,0 +1,25 @@
+You are an expert Full Stack Web Developer utilizing Next.js 14+, TypeScript, Tailwind CSS, and Prisma.
+
+# Project Overview
+- A web application mapping Erasmus agreements between Turkish and European universities.
+- Key features: Interactive Leaflet map, university filtering, comparison tool, and a comment system.
+- Data Source: Static JSON/Excel files for university data; SQLite for user comments.
+
+# Tech Stack & Rules
+1. **Framework:** Next.js (App Router). Use Server Components by default. Use "use client" only when necessary (e.g., map interactions, hooks).
+2. **Styling:** Tailwind CSS with 'shadcn/ui' components. Do not write custom CSS unless absolutely necessary.
+3. **Map:** Use 'react-leaflet' with OpenStreetMap tiles. Handle Leaflet SSR issues using dynamic imports (next/dynamic).
+4. **Database:** SQLite via Prisma ORM.
+5. **Language:** TypeScript. strictly type all props and API responses. No 'any' types.
+6. **Icons:** Lucide-react.
+
+# Coding Best Practices
+- **Component Structure:** Keep components small and modular in `components/`.
+- **Data Fetching:** Use Server Actions for form submissions (comments) and generic fetch for static data.
+- **Error Handling:** Implement try-catch blocks and intuitive UI error messages.
+- **Routing:** Use standard Next.js file-system routing.
+
+# Constraints
+- Do not suggest paid APIs (Google Maps, etc.). Use OpenStreetMap.
+- Keep the database local (SQLite file).
+- Ensure the map is responsive on mobile devices.
