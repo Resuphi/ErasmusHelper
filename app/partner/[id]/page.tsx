@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import dynamic from "next/dynamic";
+import dynamicImport from "next/dynamic";
 import {
   MapPin,
   Building2,
@@ -9,7 +9,6 @@ import {
   GraduationCap,
 } from "lucide-react";
 import { getPartnerUniversityById, getAllPartnerUniversities } from "@/lib/data";
-import { getCommentsByUniversity } from "@/app/actions/comments";
 import {
   Card,
   CardHeader,
@@ -17,11 +16,9 @@ import {
   CardDescription,
   CardContent,
 } from "@/components/ui/card";
-import { CommentForm } from "@/components/comments/CommentForm";
-import { CommentList } from "@/components/comments/CommentList";
 
 // Dynamic import for Map component to avoid SSR issues with Leaflet
-const PartnerUniversityMap = dynamic(
+const PartnerUniversityMap = dynamicImport(
   () => import("@/components/map/PartnerUniversityMap").then((mod) => mod.PartnerUniversityMap),
   {
     ssr: false,
@@ -36,17 +33,19 @@ const PartnerUniversityMap = dynamic(
   }
 );
 
+// Dynamic import for comments to avoid SSR issues with Firebase
+const ClientComments = dynamicImport(
+  () => import("@/components/comments/ClientComments").then((mod) => mod.ClientComments),
+  { ssr: false }
+);
+
+// Force dynamic rendering to avoid SSR issues with Firebase
+export const dynamic = 'force-dynamic';
+
 interface PartnerPageProps {
   params: {
     id: string;
   };
-}
-
-export async function generateStaticParams() {
-  const partners = getAllPartnerUniversities();
-  return partners.map((partner) => ({
-    id: partner.id,
-  }));
 }
 
 export async function generateMetadata({ params }: PartnerPageProps) {
@@ -64,15 +63,12 @@ export async function generateMetadata({ params }: PartnerPageProps) {
   };
 }
 
-export default async function PartnerPage({ params }: PartnerPageProps) {
+export default function PartnerPage({ params }: PartnerPageProps) {
   const partner = getPartnerUniversityById(params.id);
 
   if (!partner) {
     notFound();
   }
-
-  // Fetch comments for this partner university
-  const comments = await getCommentsByUniversity(params.id);
 
   return (
     <div className="min-h-screen">
@@ -204,13 +200,10 @@ export default async function PartnerPage({ params }: PartnerPageProps) {
 
           {/* Right Side - Comments */}
           <div className="space-y-8">
-            <CommentForm
+            <ClientComments
               universityId={params.id}
               universityName={partner.name}
             />
-            <div>
-              <CommentList comments={comments} />
-            </div>
           </div>
         </div>
       </section>
