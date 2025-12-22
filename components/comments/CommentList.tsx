@@ -1,13 +1,7 @@
+import Link from "next/link";
 import { MessageCircle, Calendar, User } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
-
-interface Comment {
-  id: string;
-  name: string;
-  surname: string;
-  content: string;
-  createdAt: Date;
-}
+import { Comment } from "@/lib/firestore";
 
 interface CommentListProps {
   comments: Comment[];
@@ -46,9 +40,15 @@ export function CommentList({ comments }: CommentListProps) {
 
                 <div className="flex-1 min-w-0">
                   <div className="flex items-center justify-between mb-2">
-                    <p className="font-semibold">
-                      {comment.name} {comment.surname}
-                    </p>
+                    <Link
+                      href={`/user/${comment.username}`}
+                      className="font-semibold hover:text-primary transition-colors"
+                    >
+                      {comment.displayName}
+                      <span className="text-muted-foreground font-normal ml-1">
+                        @{comment.username}
+                      </span>
+                    </Link>
                     <div className="flex items-center text-xs text-muted-foreground">
                       <Calendar className="h-3 w-3 mr-1" />
                       {new Date(comment.createdAt).toLocaleDateString("en-US", {
@@ -71,4 +71,3 @@ export function CommentList({ comments }: CommentListProps) {
     </div>
   );
 }
-

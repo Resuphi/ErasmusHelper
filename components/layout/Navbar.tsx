@@ -4,6 +4,9 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { MapPin, Home, Map, GitCompare } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { UserSearch } from "@/components/user/UserSearch";
+import { UserMenu } from "@/components/auth/UserMenu";
+import { MessagesButton } from "@/components/auth/MessagesButton";
 
 const navigation = [
   { name: "Home", href: "/", icon: Home },
@@ -29,7 +32,7 @@ export function Navbar() {
             {navigation.map((item) => {
               const Icon = item.icon;
               const isActive = pathname === item.href;
-              
+
               return (
                 <Link
                   key={item.name}
@@ -47,9 +50,18 @@ export function Navbar() {
               );
             })}
           </div>
+
+          <div className="flex items-center space-x-2">
+            <div className="hidden md:block">
+              <UserSearch />
+            </div>
+            <MessagesButton />
+            <UserMenu />
+          </div>
         </div>
       </div>
     </nav>
   );
 }
+
 

@@ -13,12 +13,15 @@ datasource db {
 model Comment {
   id           String   @id @default(cuid())
   universityId String
-  name         String
-  surname      String
-  email        String
+  // User account fields (for authenticated comments)
+  userId       String?  // Firebase UID
+  username     String?  // Username for display
+  displayName  String?  // Display name
   content      String
   createdAt    DateTime @default(now())
 
   @@index([universityId])
+  @@index([userId])
 }
+
 

@@ -9,7 +9,7 @@ import {
   GraduationCap,
 } from "lucide-react";
 import { getUniversityById, getAllUniversities, generatePartnerId } from "@/lib/data";
-import { getCommentsByUniversity } from "@/app/actions/comments";
+import { getCommentsByUniversity } from "@/lib/firestore";
 import {
   Card,
   CardHeader,
@@ -238,32 +238,27 @@ export default async function UniversityPage({ params }: UniversityPageProps) {
             </div>
           </div>
 
-          {/* Right Side - Map */}
-          <div className="lg:sticky lg:top-4 h-[600px] lg:h-[calc(100vh-8rem)]">
-            <Card className="h-full">
-              <CardHeader>
+          {/* Right Side - Map + Comments */}
+          <div className="space-y-6">
+            {/* Map - Fixed height, no sticky */}
+            <Card className="h-[450px]">
+              <CardHeader className="pb-2">
                 <CardTitle>Interactive Map</CardTitle>
                 <CardDescription>
                   Click markers to explore partnerships
                 </CardDescription>
               </CardHeader>
-              <CardContent className="h-[calc(100%-5rem)]">
+              <CardContent className="h-[calc(100%-4rem)]">
                 <UniversityMap university={university} />
               </CardContent>
             </Card>
-          </div>
-        </div>
 
-        {/* Comments Section - Full Width Below */}
-        <div className="mt-12 space-y-8">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            {/* Comments Section - Under Map */}
             <CommentForm
               universityId={params.id}
               universityName={university.name}
             />
-            <div>
-              <CommentList comments={comments} />
-            </div>
+            <CommentList comments={comments} />
           </div>
         </div>
       </section>

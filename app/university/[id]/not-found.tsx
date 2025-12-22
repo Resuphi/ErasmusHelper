@@ -9,7 +9,7 @@ export default function NotFound() {
         <AlertCircle className="h-20 w-20 text-muted-foreground mx-auto" />
         <h1 className="text-4xl font-bold">University Not Found</h1>
         <p className="text-muted-foreground">
-          The university you're looking for doesn't exist in our database.
+          The university you&apos;re looking for doesn&apos;t exist in our database.
         </p>
         <Link href="/">
           <Button>Back to Home</Button>

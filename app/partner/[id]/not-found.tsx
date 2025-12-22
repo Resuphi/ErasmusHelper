@@ -9,7 +9,7 @@ export default function PartnerNotFound() {
         <Building2 className="h-24 w-24 text-muted-foreground mx-auto mb-6" />
         <h1 className="text-4xl font-bold mb-4">Partner University Not Found</h1>
         <p className="text-xl text-muted-foreground mb-8 max-w-md mx-auto">
-          The partner university you're looking for doesn't exist or may have been removed.
+          The partner university you&apos;re looking for doesn&apos;t exist or may have been removed.
         </p>
         <div className="flex gap-4 justify-center">
           <Link href="/map">

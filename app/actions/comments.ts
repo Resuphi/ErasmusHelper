@@ -9,9 +9,9 @@ export async function createComment(formData: FormData) {
     // Extract data from FormData
     const data = {
       universityId: formData.get("universityId") as string,
-      name: formData.get("name") as string,
-      surname: formData.get("surname") as string,
-      email: formData.get("email") as string,
+      userId: formData.get("userId") as string,
+      username: formData.get("username") as string,
+      displayName: formData.get("displayName") as string,
       content: formData.get("content") as string,
     };
 
@@ -62,4 +62,5 @@ export async function getCommentsByUniversity(universityId: string) {
     return [];
   }
 }
+
 

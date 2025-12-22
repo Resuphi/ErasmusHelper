@@ -1,12 +1,13 @@
 "use client";
 
 import { useRef, useState } from "react";
-import { MessageSquare, Send, Loader2 } from "lucide-react";
-import { Input } from "@/components/ui/input";
+import Link from "next/link";
+import { useRouter } from "next/navigation";
+import { MessageSquare, Send, Loader2, LogIn } from "lucide-react";
 import { Textarea } from "@/components/ui/textarea";
-import { Label } from "@/components/ui/label";
 import { Button } from "@/components/ui/button";
-import { createComment } from "@/app/actions/comments";
+import { createComment } from "@/lib/firestore";
+import { useAuth } from "@/lib/AuthContext";
 
 interface CommentFormProps {
   universityId: string;
@@ -14,33 +15,46 @@ interface CommentFormProps {
 }
 
 export function CommentForm({ universityId, universityName }: CommentFormProps) {
+  const router = useRouter();
   const formRef = useRef<HTMLFormElement>(null);
+  const { user, userProfile, loading } = useAuth();
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [content, setContent] = useState("");
   const [message, setMessage] = useState<{
     type: "success" | "error";
     text: string;
   } | null>(null);
 
-  async function handleSubmit(formData: FormData) {
+  async function handleSubmit(e: React.FormEvent) {
+    e.preventDefault();
+
+    if (!user || !userProfile) return;
+    if (content.trim().length < 10) {
+      setMessage({ type: "error", text: "Comment must be at least 10 characters" });
+      return;
+    }
+
     setIsSubmitting(true);
     setMessage(null);
 
     try {
-      const result = await createComment(formData);
+      await createComment(
+        universityId,
+        user.uid,
+        userProfile.username,
+        userProfile.displayName,
+        content.trim()
+      );
 
-      if (result.success) {
-        setMessage({
-          type: "success",
-          text: result.message,
-        });
-        formRef.current?.reset();
-      } else {
-        setMessage({
-          type: "error",
-          text: result.message,
-        });
-      }
+      setMessage({
+        type: "success",
+        text: "Thank you for sharing your experience!",
+      });
+      setContent("");
+      // Refresh the page to show the new comment
+      router.refresh();
     } catch (error) {
+      console.error("Error creating comment:", error);
       setMessage({
         type: "error",
         text: "An unexpected error occurred. Please try again.",
@@ -50,6 +64,45 @@ export function CommentForm({ universityId, universityName }: CommentFormProps) 
     }
   }
 
+  // Loading state
+  if (loading) {
+    return (
+      <div className="bg-card border rounded-lg p-6">
+        <div className="flex items-center justify-center py-8">
+          <Loader2 className="h-6 w-6 animate-spin text-muted-foreground" />
+        </div>
+      </div>
+    );
+  }
+
+  // Not logged in
+  if (!user || !userProfile) {
+    return (
+      <div className="bg-card border rounded-lg p-6">
+        <div className="flex items-center space-x-2 mb-6">
+          <MessageSquare className="h-5 w-5 text-primary" />
+          <h3 className="text-xl font-semibold">Share Your Experience</h3>
+        </div>
+
+        <div className="text-center py-8">
+          <LogIn className="h-12 w-12 text-muted-foreground mx-auto mb-4" />
+          <p className="text-muted-foreground mb-4">
+            Sign in to share your Erasmus experience at {universityName}
+          </p>
+          <div className="flex gap-2 justify-center">
+            <Link href="/auth/login">
+              <Button variant="outline">Sign In</Button>
+            </Link>
+            <Link href="/auth/register">
+              <Button>Create Account</Button>
+            </Link>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  // Logged in form
   return (
     <div className="bg-card border rounded-lg p-6">
       <div className="flex items-center space-x-2 mb-6">
@@ -57,65 +110,18 @@ export function CommentForm({ universityId, universityName }: CommentFormProps) 
         <h3 className="text-xl font-semibold">Share Your Experience</h3>
       </div>
 
-      <p className="text-sm text-muted-foreground mb-6">
-        Have you participated in an Erasmus program at {universityName}? Share your
-        experience to help future students!
-      </p>
-
-      <form ref={formRef} action={handleSubmit} className="space-y-4">
-        <input type="hidden" name="universityId" value={universityId} />
-
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div className="space-y-2">
-            <Label htmlFor="name">
-              Name <span className="text-destructive">*</span>
-            </Label>
-            <Input
-              id="name"
-              name="name"
-              type="text"
-              placeholder="John"
-              required
-              disabled={isSubmitting}
-            />
-          </div>
-
-          <div className="space-y-2">
-            <Label htmlFor="surname">
-              Surname <span className="text-destructive">*</span>
-            </Label>
-            <Input
-              id="surname"
-              name="surname"
-              type="text"
-              placeholder="Doe"
-              required
-              disabled={isSubmitting}
-            />
-          </div>
+      <div className="flex items-center gap-3 mb-4 p-3 bg-muted/50 rounded-lg">
+        <div className="h-10 w-10 rounded-full bg-primary/10 flex items-center justify-center text-sm font-medium">
+          {userProfile.displayName.charAt(0).toUpperCase()}
         </div>
-
-        <div className="space-y-2">
-          <Label htmlFor="email">
-            Email <span className="text-destructive">*</span>
-          </Label>
-          <Input
-            id="email"
-            name="email"
-            type="email"
-            placeholder="john.doe@example.com"
-            required
-            disabled={isSubmitting}
-          />
-          <p className="text-xs text-muted-foreground">
-            Your email will not be displayed publicly
-          </p>
+        <div>
+          <p className="font-medium">{userProfile.displayName}</p>
+          <p className="text-sm text-muted-foreground">@{userProfile.username}</p>
         </div>
+      </div>
 
+      <form ref={formRef} onSubmit={handleSubmit} className="space-y-4">
         <div className="space-y-2">
-          <Label htmlFor="content">
-            Comment <span className="text-destructive">*</span>
-          </Label>
           <Textarea
             id="content"
             name="content"
@@ -125,6 +131,8 @@ export function CommentForm({ universityId, universityName }: CommentFormProps) 
             disabled={isSubmitting}
             minLength={10}
             maxLength={1000}
+            value={content}
+            onChange={(e) => setContent(e.target.value)}
           />
           <p className="text-xs text-muted-foreground">
             Minimum 10 characters, maximum 1000 characters
@@ -133,11 +141,10 @@ export function CommentForm({ universityId, universityName }: CommentFormProps) 
 
         {message && (
           <div
-            className={`p-4 rounded-md ${
-              message.type === "success"
-                ? "bg-green-50 text-green-800 border border-green-200"
-                : "bg-red-50 text-red-800 border border-red-200"
-            }`}
+            className={`p-4 rounded-md ${message.type === "success"
+              ? "bg-green-50 text-green-800 border border-green-200"
+              : "bg-red-50 text-red-800 border border-red-200"
+              }`}
           >
             <p className="text-sm font-medium">{message.text}</p>
           </div>
@@ -160,4 +167,3 @@ export function CommentForm({ universityId, universityName }: CommentFormProps) 
     </div>
   );
 }
-
